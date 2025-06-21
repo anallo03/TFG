@@ -1,0 +1,7 @@
+
+Dieta óptima encontrada:
+  cacahuete: 253.53 g
+  lentejas: 503.92 g
+  pipas de girasol: 180.13 g
+
+Coste total: 4.15 €

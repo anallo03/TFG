@@ -1,0 +1,2268 @@
+{
+    "abadejo": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "76",
+        "Proteínas (g)": "17.4",
+        "Lípidos totales (g)": "0.75",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "2.60",
+        "Máximo (g/día)": "200"
+    },
+    "aceite de oliva": {
+        "Categoría": "Aceites y grasas",
+        "Energía (Kcal)": "899",
+        "Proteínas (g)": "0",
+        "Lípidos totales (g)": "99.9",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "0.44",
+        "Máximo (g/día)": "20"
+    },
+    "aceituna": {
+        "Categoría": "Condimentos y aperitivos",
+        "Energía (Kcal)": "196",
+        "Proteínas (g)": "0.8",
+        "Lípidos totales (g)": "20",
+        "Hidratos de carbono (g)": "1",
+        "Precio (€/100g)": "0.70",
+        "Máximo (g/día)": "75"
+    },
+    "acelga": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "41",
+        "Proteínas (g)": "2",
+        "Lípidos totales (g)": "0.4",
+        "Hidratos de carbono (g)": "4.5",
+        "Precio (€/100g)": "0.27",
+        "Máximo (g/día)": "200"
+    },
+    "aguacate": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "141",
+        "Proteínas (g)": "1.5",
+        "Lípidos totales (g)": "12",
+        "Hidratos de carbono (g)": "5.9",
+        "Precio (€/100g)": "0.51",
+        "Máximo (g/día)": "200"
+    },
+    "ajo": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "118",
+        "Proteínas (g)": "5.3",
+        "Lípidos totales (g)": "0.3",
+        "Hidratos de carbono (g)": "23",
+        "Precio (€/100g)": "0.74",
+        "Máximo (g/día)": "200"
+    },
+    "albaricoque": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "45",
+        "Proteínas (g)": "0.8",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "9.5",
+        "Precio (€/100g)": "0.21",
+        "Máximo (g/día)": "200"
+    },
+    "alcachofa": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "44",
+        "Proteínas (g)": "2.3",
+        "Lípidos totales (g)": "0.1",
+        "Hidratos de carbono (g)": "7.5",
+        "Precio (€/100g)": "0.25",
+        "Máximo (g/día)": "200"
+    },
+    "alcaparra": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "44",
+        "Proteínas (g)": "2.4",
+        "Lípidos totales (g)": "0.9",
+        "Hidratos de carbono (g)": "4.9",
+        "Precio (€/100g)": "1.00",
+        "Máximo (g/día)": "200"
+    },
+    "almeja": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "47",
+        "Proteínas (g)": "10.7",
+        "Lípidos totales (g)": "0.5",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "4.90",
+        "Máximo (g/día)": "200"
+    },
+    "almendra": {
+        "Categoría": "Frutos secos",
+        "Energía (Kcal)": "604",
+        "Proteínas (g)": "30",
+        "Lípidos totales (g)": "53.5",
+        "Hidratos de carbono (g)": "3.5",
+        "Precio (€/100g)": "1.15",
+        "Máximo (g/día)": "75"
+    },
+    "alubias": {
+        "Categoría": "Legumbres",
+        "Energía (Kcal)": "349",
+        "Proteínas (g)": "19",
+        "Lípidos totales (g)": "1.4",
+        "Hidratos de carbono (g)": "52.5",
+        "Precio (€/100g)": "0.24",
+        "Máximo (g/día)": "100"
+    },
+    "anchoa salada en aceite": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "195",
+        "Proteínas (g)": "27.4",
+        "Lípidos totales (g)": "9.3",
+        "Hidratos de carbono (g)": "0.4",
+        "Precio (€/100g)": "6.50",
+        "Máximo (g/día)": "200"
+    },
+    "anguila": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "205",
+        "Proteínas (g)": "16.3",
+        "Lípidos totales (g)": "15.5",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "4.50",
+        "Máximo (g/día)": "200"
+    },
+    "angula": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "205",
+        "Proteínas (g)": "16.3",
+        "Lípidos totales (g)": "15.5",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "99.00",
+        "Máximo (g/día)": "200"
+    },
+    "apio": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "16",
+        "Proteínas (g)": "1.3",
+        "Lípidos totales (g)": "0.2",
+        "Hidratos de carbono (g)": "1.3",
+        "Precio (€/100g)": "0.46",
+        "Máximo (g/día)": "200"
+    },
+    "arándano": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "57",
+        "Proteínas (g)": "0.7",
+        "Lípidos totales (g)": "0.3",
+        "Hidratos de carbono (g)": "14.5",
+        "Precio (€/100g)": "1.40",
+        "Máximo (g/día)": "200"
+    },
+    "arenque salado": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "202",
+        "Proteínas (g)": "21",
+        "Lípidos totales (g)": "13.1",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "1.99",
+        "Máximo (g/día)": "200"
+    },
+    "arenque": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "153",
+        "Proteínas (g)": "18",
+        "Lípidos totales (g)": "9",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "1.99",
+        "Máximo (g/día)": "200"
+    },
+    "arroz": {
+        "Categoría": "Cereales y derivados",
+        "Energía (Kcal)": "381",
+        "Proteínas (g)": "7",
+        "Lípidos totales (g)": "0.9",
+        "Hidratos de carbono (g)": "86",
+        "Precio (€/100g)": "0.16",
+        "Máximo (g/día)": "200"
+    },
+    "atún": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "200",
+        "Proteínas (g)": "23",
+        "Lípidos totales (g)": "12",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "3.74",
+        "Máximo (g/día)": "200"
+    },
+    "avellana": {
+        "Categoría": "Frutos secos",
+        "Energía (Kcal)": "587",
+        "Proteínas (g)": "14.1",
+        "Lípidos totales (g)": "54.4",
+        "Hidratos de carbono (g)": "5.3",
+        "Precio (€/100g)": "1.47",
+        "Máximo (g/día)": "75"
+    },
+    "avena": {
+        "Categoría": "Cereales y derivados",
+        "Energía (Kcal)": "389",
+        "Proteínas (g)": "12.5",
+        "Lípidos totales (g)": "7.5",
+        "Hidratos de carbono (g)": "67.5",
+        "Precio (€/100g)": "0.48",
+        "Máximo (g/día)": "200"
+    },
+    "azafrán": {
+        "Categoría": "Condimentos y aperitivos",
+        "Energía (Kcal)": "345",
+        "Proteínas (g)": "11.4",
+        "Lípidos totales (g)": "5.9",
+        "Hidratos de carbono (g)": "61.5",
+        "Precio (€/100g)": "450.00",
+        "Máximo (g/día)": "200"
+
+    },
+    "bacaladilla": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "76",
+        "Proteínas (g)": "17.4",
+        "Lípidos totales (g)": "0.7",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "0.80",
+        "Máximo (g/día)": "200"
+    },
+    "bacalao": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "74",
+        "Proteínas (g)": "17.7",
+        "Lípidos totales (g)": "0.4",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "2.49",
+        "Máximo (g/día)": "200"
+    },
+    "batata": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "101",
+        "Proteínas (g)": "1.2",
+        "Lípidos totales (g)": "0.6",
+        "Hidratos de carbono (g)": "21.5",
+        "Precio (€/100g)": "0.23",
+        "Máximo (g/día)": "200"
+    },
+    "bebidas alcohólicas": {
+        "Categoría": "Bebidas",
+        "Energía (Kcal)": "233",
+        "Proteínas (g)": "0",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "0.4",
+        "Precio (€/100g)": "1.80",
+        "Máximo (g/día)": "200"
+    },
+    "berberecho": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "47",
+        "Proteínas (g)": "10.7",
+        "Lípidos totales (g)": "0.5",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "4.42",
+        "Máximo (g/día)": "200"
+    },
+    "berenjena": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "27",
+        "Proteínas (g)": "1.2",
+        "Lípidos totales (g)": "0.2",
+        "Hidratos de carbono (g)": "4.4",
+        "Precio (€/100g)": "0.23",
+        "Máximo (g/día)": "200"
+    },
+    "berros": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "29",
+        "Proteínas (g)": "3",
+        "Lípidos totales (g)": "1",
+        "Hidratos de carbono (g)": "0.4",
+        "Precio (€/100g)": "1.65",
+        "Máximo (g/día)": "200"
+    },
+    "berza": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "36",
+        "Proteínas (g)": "3.3",
+        "Lípidos totales (g)": "0.3",
+        "Hidratos de carbono (g)": "3.4",
+        "Precio (€/100g)": "1.23",
+        "Máximo (g/día)": "200"
+    },
+    "besugo": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "86",
+        "Proteínas (g)": "17",
+        "Lípidos totales (g)": "2",
+        "Hidratos de carbono (g)": "0", 
+        "Precio (€/100g)": "6.10",
+        "Máximo (g/día)": "200"
+    },
+    "bogavante": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "91",
+        "Proteínas (g)": "18.3",
+        "Lípidos totales (g)": "2",
+        "Hidratos de carbono (g)": "0", 
+        "Precio (€/100g)": "7.90",
+        "Máximo (g/día)": "200"
+    },
+    "bonito": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "138",
+        "Proteínas (g)": "21",
+        "Lípidos totales (g)": "6",
+        "Hidratos de carbono (g)": "0", 
+        "Precio (€/100g)": "2.25",
+        "Máximo (g/día)": "200"
+    },
+    "boquerón": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "127",
+        "Proteínas (g)": "17.6",
+        "Lípidos totales (g)": "6.3",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "0.60",
+        "Máximo (g/día)": "200"
+    },
+    "brócoli": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "38",
+        "Proteínas (g)": "4.4",
+        "Lípidos totales (g)": "0.9",
+        "Hidratos de carbono (g)": "1.8",
+        "Precio (€/100g)": "0.21",
+        "Máximo (g/día)": "200"
+    },
+    "buey de mar": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "86",
+        "Proteínas (g)": "18.0",
+        "Lípidos totales (g)": "1.0",
+        "Hidratos de carbono (g)": "0.7",
+        "Precio (€/100g)": "2.64",
+        "Máximo (g/día)": "200"
+    },
+    "buey": {
+        "Categoría": "Carnes",
+        "Energía (Kcal)": "104",
+        "Proteínas (g)": "18.2",
+        "Lípidos totales (g)": "3.5",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "9.38",
+        "Máximo (g/día)": "250"
+    },
+    "butifarra": {
+        "Categoría": "Productos cárnicos",
+        "Energía (Kcal)": "265",
+        "Proteínas (g)": "15",
+        "Lípidos totales (g)": "20.3",
+        "Hidratos de carbono (g)": "5.5",
+        "Precio (€/100g)": "0.91",
+        "Máximo (g/día)": "200"
+    },
+    "bígaro": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "94",
+        "Proteínas (g)": "20.8",
+        "Lípidos totales (g)": "1.2",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "2.20",
+        "Máximo (g/día)": "200"
+    },
+    "caballa": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "150",
+        "Proteínas (g)": "15",
+        "Lípidos totales (g)": "10",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "1.57",
+        "Máximo (g/día)": "200"
+    },
+    "cabeza de jabalí": {
+        "Categoría": "Carnes",
+        "Energía (Kcal)": "540",
+        "Proteínas (g)": "20.4",
+        "Lípidos totales (g)": "50.6",
+        "Hidratos de carbono (g)": "0.8",
+        "Precio (€/100g)": "1.24",
+        "Máximo (g/día)": "250"
+    },
+    "cabracho": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "91",
+        "Proteínas (g)": "19",
+        "Lípidos totales (g)": "1.7",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "4.84",
+        "Máximo (g/día)": "200"
+    },
+    "cabrito": {
+        "Categoría": "Carnes",
+        "Energía (Kcal)": "599",
+        "Proteínas (g)": "27",
+        "Lípidos totales (g)": "49",
+        "Hidratos de carbono (g)": "8.5",
+        "Precio (€/100g)": "1.80",
+        "Máximo (g/día)": "250"
+    },
+    "cacahuete": {
+        "Categoría": "Frutos secos",
+        "Energía (Kcal)": "113",
+        "Proteínas (g)": "19.3",
+        "Lípidos totales (g)": "4",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "0.48",
+        "Máximo (g/día)": "75"
+    },
+    "cacao": {
+        "Categoría": "Azúcares y dulces",
+        "Energía (Kcal)": "381",
+        "Proteínas (g)": "9.8",
+        "Lípidos totales (g)": "8.1",
+        "Hidratos de carbono (g)": "67.1",
+        "Precio (€/100g)": "2.16",
+        "Máximo (g/día)": "20"
+    },
+    "café": {
+        "Categoría": "Bebidas",
+        "Energía (Kcal)": "4",
+        "Proteínas (g)": "0.3",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "0.8",
+        "Precio (€/100g)": "1.59",
+        "Máximo (g/día)": "200"
+    },
+    "calabacín": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "14",
+        "Proteínas (g)": "0.6",
+        "Lípidos totales (g)": "0.2",
+        "Hidratos de carbono (g)": "2.2",
+        "Precio (€/100g)": "0.17",
+        "Máximo (g/día)": "200"
+    },
+    "calabaza": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "15",
+        "Proteínas (g)": "0.7",
+        "Lípidos totales (g)": "0.2",
+        "Hidratos de carbono (g)": "2.2",
+        "Precio (€/100g)": "0.14",
+        "Máximo (g/día)": "200"
+    },
+    "calamar": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "80",
+        "Proteínas (g)": "17",
+        "Lípidos totales (g)": "1.3",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "2.42",
+        "Máximo (g/día)": "200"
+    },
+    "callos": {
+        "Categoría": "Carnes",
+        "Energía (Kcal)": "81",
+        "Proteínas (g)": "14.6",
+        "Lípidos totales (g)": "2.5",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "0.90",
+        "Máximo (g/día)": "200"
+    },
+    "camarón": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "82",
+        "Proteínas (g)": "17.6",
+        "Lípidos totales (g)": "0.6",
+        "Hidratos de carbono (g)": "1.5",
+        "Precio (€/100g)": "12.00",
+        "Máximo (g/día)": "200"
+    },
+    "canela": {
+        "Categoría": "Condimentos y aperitivos",
+        "Energía (Kcal)": "44",
+        "Proteínas (g)": "3.9",
+        "Lípidos totales (g)": "3.2",
+        "Hidratos de carbono (g)": "79.85",
+        "Precio (€/100g)": "1.92",
+        "Máximo (g/día)": "200"
+    },
+    "cangrejo de mar": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "124",
+        "Proteínas (g)": "19.5",
+        "Lípidos totales (g)": "5.1",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "1.59",
+        "Máximo (g/día)": "200"
+    },
+    "cangrejo de río": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "77",
+        "Proteínas (g)": "16",
+        "Lípidos totales (g)": "1",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "4.50",
+        "Máximo (g/día)": "200"
+    },
+    "canónigos": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "17",
+        "Proteínas (g)": "1.8",
+        "Lípidos totales (g)": "0.4",
+        "Hidratos de carbono (g)": "0.7",
+        "Precio (€/100g)": "0.86",
+        "Máximo (g/día)": "200"
+    },
+    "capón": {
+        "Categoría": "Carnes",
+        "Energía (Kcal)": "221",
+        "Proteínas (g)": "29",
+        "Lípidos totales (g)": "11.7",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "1.79",
+        "Máximo (g/día)": "250"
+    },
+    "caqui": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "73",
+        "Proteínas (g)": "0.7",
+        "Lípidos totales (g)": "0.3",
+        "Hidratos de carbono (g)": "16",
+        "Precio (€/100g)": "0.26",
+        "Máximo (g/día)": "200"
+    },
+    "carabinero": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "115",
+        "Proteínas (g)": "23.9",
+        "Lípidos totales (g)": "1.7",
+        "Hidratos de carbono (g)": "0.9",
+        "Precio (€/100g)": "9.99",
+        "Máximo (g/día)": "200"
+    },
+    "cardo": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "23",
+        "Proteínas (g)": "1.4",
+        "Lípidos totales (g)": "0.2",
+        "Hidratos de carbono (g)": "3.5",
+        "Precio (€/100g)": "0.90",
+        "Máximo (g/día)": "200"
+    },
+    "castaña": {
+        "Categoría": "Frutos secos",
+        "Energía (Kcal)": "209",
+        "Proteínas (g)": "3",
+        "Lípidos totales (g)": "2.6",
+        "Hidratos de carbono (g)": "40",
+        "Precio (€/100g)": "1.40",
+        "Máximo (g/día)": "75"
+    },
+    "caviar": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "113",
+        "Proteínas (g)": "24.3",
+        "Lípidos totales (g)": "1.8",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "190.00",
+        "Máximo (g/día)": "200"
+    },
+    "cazón": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "82",
+        "Proteínas (g)": "18.7",
+        "Lípidos totales (g)": "0.9",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "1.00",
+        "Máximo (g/día)": "200"
+    },
+    "cebolla": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "23",
+        "Proteínas (g)": "1.4",
+        "Lípidos totales (g)": "0.2",
+        "Hidratos de carbono (g)": "3.5",
+        "Precio (€/100g)": "0.24",
+        "Máximo (g/día)": "200"
+    },
+    "cebolleta": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "29",
+        "Proteínas (g)": "1.4",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "5.1",
+        "Precio (€/100g)": "0.38",
+        "Máximo (g/día)": "200"
+    },
+    "cebollino": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "29",
+        "Proteínas (g)": "3",
+        "Lípidos totales (g)": "0.5",
+        "Hidratos de carbono (g)": "1.9",
+        "Precio (€/100g)": "1.06",
+        "Máximo (g/día)": "200"
+    },
+    "cecina": {
+        "Categoría": "Productos cárnicos",
+        "Energía (Kcal)": "252",
+        "Proteínas (g)": "39",
+        "Lípidos totales (g)": "9.5",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "3.50",
+        "Máximo (g/día)": "200"
+    },
+    "centollo": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "127",
+        "Proteínas (g)": "20.1",
+        "Lípidos totales (g)": "5.2",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "3.90",
+        "Máximo (g/día)": "200"
+    },
+    "cerdo": {
+        "Categoría": "Carnes",
+        "Energía (Kcal)": "273",
+        "Proteínas (g)": "16.6",
+        "Lípidos totales (g)": "23",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "1.08",
+        "Máximo (g/día)": "250"
+    },
+    "cereales saludables": {
+        "Categoría": "Cereales y derivados",
+        "Energía (Kcal)": "378",
+        "Proteínas (g)": "7",
+        "Lípidos totales (g)": "0.9",
+        "Hidratos de carbono (g)": "84",
+        "Precio (€/100g)": "0.30",
+        "Máximo (g/día)": "200"
+    },
+    "cereza": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "65",
+        "Proteínas (g)": "0.8",
+        "Lípidos totales (g)": "0.5",
+        "Hidratos de carbono (g)": "13.5",
+        "Precio (€/100g)": "0.56",
+        "Máximo (g/día)": "200"
+    },
+    "cerveza": {
+        "Categoría": "Bebidas",
+        "Energía (Kcal)": "33",
+        "Proteínas (g)": "0.3",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "2.4",
+        "Precio (€/100g)": "0.20",
+        "Máximo (g/día)": "200"
+    },
+    "champiñón": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "31",
+        "Proteínas (g)": "1.8",
+        "Lípidos totales (g)": "0.3",
+        "Hidratos de carbono (g)": "4",
+        "Precio (€/100g)": "0.99",
+        "Máximo (g/día)": "200"
+    },
+    "chirimoya": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "90",
+        "Proteínas (g)": "1",
+        "Lípidos totales (g)": "0.2",
+        "Hidratos de carbono (g)": "20",
+        "Precio (€/100g)": "0.55",
+        "Máximo (g/día)": "200"
+    },
+    "chirla": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "47",
+        "Proteínas (g)": "10.7",
+        "Lípidos totales (g)": "0.5",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "0.90",
+        "Máximo (g/día)": "200"
+    },
+    "chistorra": {
+        "Categoría": "Productos cárnicos",
+        "Energía (Kcal)": "514",
+        "Proteínas (g)": "17.4",
+        "Lípidos totales (g)": "49",
+        "Hidratos de carbono (g)": "0.9",
+        "Precio (€/100g)": "0.68",
+        "Máximo (g/día)": "200"
+    },
+    "chocolate": {
+        "Categoría": "Azúcares y dulces",
+        "Energía (Kcal)": "532",
+        "Proteínas (g)": "7.8",
+        "Lípidos totales (g)": "30.6",
+        "Hidratos de carbono (g)": "56.4",
+        "Precio (€/100g)": "1.85",
+        "Máximo (g/día)": "35"
+    },
+    "choped": {
+        "Categoría": "Productos cárnicos",
+        "Energía (Kcal)": "311",
+        "Proteínas (g)": "14",
+        "Lípidos totales (g)": "27",
+        "Hidratos de carbono (g)": "3",
+        "Precio (€/100g)": "1.06",
+        "Máximo (g/día)": "200"
+    },
+    "chorizo": {
+        "Categoría": "Carnes",
+        "Energía (Kcal)": "385",
+        "Proteínas (g)": "22",
+        "Lípidos totales (g)": "32.1",
+        "Hidratos de carbono (g)": "2",
+        "Precio (€/100g)": "0.89",
+        "Máximo (g/día)": "200"
+    },
+    "ciervo": {
+        "Categoría": "Carnes",
+        "Energía (Kcal)": "103",
+        "Proteínas (g)": "22.2",
+        "Lípidos totales (g)": "1.6",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "2.30",
+        "Máximo (g/día)": "250"
+    },
+    "cigala": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "93",
+        "Proteínas (g)": "20.1",
+        "Lípidos totales (g)": "1.4",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "7.90",
+        "Máximo (g/día)": "200"
+    },
+    "ciruela": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "51",
+        "Proteínas (g)": "0.6",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "11",
+        "Precio (€/100g)": "0.40",
+        "Máximo (g/día)": "200"
+    },
+    "cochinillo": {
+        "Categoría": "Carnes",
+        "Energía (Kcal)": "93",
+        "Proteínas (g)": "18.8",
+        "Lípidos totales (g)": "2.3",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "1.50",
+        "Máximo (g/día)": "250"
+    },
+    "coco": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "373",
+        "Proteínas (g)": "3.2",
+        "Lípidos totales (g)": "36",
+        "Hidratos de carbono (g)": "3.7",
+        "Precio (€/100g)": "0.44",
+        "Máximo (g/día)": "200"
+    },
+    "codorníz": {
+        "Categoría": "Carnes",
+        "Energía (Kcal)": "106",
+        "Proteínas (g)": "23",
+        "Lípidos totales (g)": "1.6",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "1.66",
+        "Máximo (g/día)": "250"
+    },
+    "coles de bruselas": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "51",
+        "Proteínas (g)": "3.5",
+        "Lípidos totales (g)": "1.4",
+        "Hidratos de carbono (g)": "4.1",
+        "Precio (€/100g)": "0.37",
+        "Máximo (g/día)": "200"
+    },
+    "coliflor": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "27",
+        "Proteínas (g)": "2.2",
+        "Lípidos totales (g)": "0.2",
+        "Hidratos de carbono (g)": "3.1",
+        "Precio (€/100g)": "0.20",
+        "Máximo (g/día)": "200"
+    },
+    "conejo": {
+        "Categoría": "Carnes",
+        "Energía (Kcal)": "133",
+        "Proteínas (g)": "23",
+        "Lípidos totales (g)": "4.6",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "1.07",
+        "Máximo (g/día)": "250"
+    },
+    "congrio": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "101",
+        "Proteínas (g)": "19",
+        "Lípidos totales (g)": "2.8",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "0.99",
+        "Máximo (g/día)": "200"
+    },
+    "coquina": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "74",
+        "Proteínas (g)": "12.8",
+        "Lípidos totales (g)": "1",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "1.58",
+        "Máximo (g/día)": "200"
+    },
+    "cordero lechal": {
+        "Categoría": "Carnes",
+        "Energía (Kcal)": "225",
+        "Proteínas (g)": "18",
+        "Lípidos totales (g)": "17",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "2.60",
+        "Máximo (g/día)": "250"
+    },
+    "cordero, mollejas": {
+        "Categoría": "Carnes",
+        "Energía (Kcal)": "131",
+        "Proteínas (g)": "15.3",
+        "Lípidos totales (g)": "7.8",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "3.00",
+        "Máximo (g/día)": "200"
+    },
+    "cordero, paletilla": {
+        "Categoría": "Carnes",
+        "Energía (Kcal)": "240",
+        "Proteínas (g)": "17.9",
+        "Lípidos totales (g)": "18.7",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "1.60",
+        "Máximo (g/día)": "250"
+    },
+    "cordero, sesos": {
+        "Categoría": "Carnes",
+        "Energía (Kcal)": "113",
+        "Proteínas (g)": "10.3",
+        "Lípidos totales (g)": "8",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "2.48",
+        "Máximo (g/día)": "200"
+    },
+    "cuajada": {
+        "Categoría": "Leche y productos lácteos",
+        "Energía (Kcal)": "94",
+        "Proteínas (g)": "4.8",
+        "Lípidos totales (g)": "5.3",
+        "Hidratos de carbono (g)": "6.7",
+        "Precio (€/100g)": "1.11",
+        "Máximo (g/día)": "200",
+        "Extra": "Postre"
+    },
+    "dátil": {
+        "Categoría": "Frutos secos",
+        "Energía (Kcal)": "314",
+        "Proteínas (g)": "2.2",
+        "Lípidos totales (g)": "0.4",
+        "Hidratos de carbono (g)": "71",
+        "Precio (€/100g)": "0.67",
+        "Máximo (g/día)": "200"
+    },
+    "dorada": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "77",
+        "Proteínas (g)": "17",
+        "Lípidos totales (g)": "1",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "1.00",
+        "Máximo (g/día)": "200"
+    },
+    "endibia": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "25",
+        "Proteínas (g)": "1.5",
+        "Lípidos totales (g)": "0.24",
+        "Hidratos de carbono (g)": "3.6",
+        "Precio (€/100g)": "0.41",
+        "Máximo (g/día)": "200"
+    },
+    "escarola": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "24",
+        "Proteínas (g)": "1.5",
+        "Lípidos totales (g)": "0.3",
+        "Hidratos de carbono (g)": "3",
+        "Precio (€/100g)": "0.82",
+        "Máximo (g/día)": "200"
+    },
+    "espinacas": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "31",
+        "Proteínas (g)": "2.6",
+        "Lípidos totales (g)": "0.3",
+        "Hidratos de carbono (g)": "1.2",
+        "Precio (€/100g)": "0.70",
+        "Máximo (g/día)": "200"
+    },
+    "espárragos": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "18",
+        "Proteínas (g)": "2.7",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "1.1",
+        "Precio (€/100g)": "0.95",
+        "Máximo (g/día)": "200"
+    },
+    "flan": {
+        "Categoría": "Leche y productos lácteos",
+        "Energía (Kcal)": "127",
+        "Proteínas (g)": "4.9",
+        "Lípidos totales (g)": "2.3",
+        "Hidratos de carbono (g)": "21.6",
+        "Precio (€/100g)": "0.47",
+        "Máximo (g/día)": "200",
+        "Extra": "Postre"
+    },
+    "frambuesa": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "40",
+        "Proteínas (g)": "1.4",
+        "Lípidos totales (g)": "0.3",
+        "Hidratos de carbono (g)": "4.6",
+        "Precio (€/100g)": "1.76",
+        "Máximo (g/día)": "200"
+    },
+    "fresa": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "40",
+        "Proteínas (g)": "0.7",
+        "Lípidos totales (g)": "0.5",
+        "Hidratos de carbono (g)": "7",
+        "Precio (€/100g)": "0.55",
+        "Máximo (g/día)": "200"
+    },
+    "gallo": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "80",
+        "Proteínas (g)": "15.8",
+        "Lípidos totales (g)": "1.9",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "1.00",
+        "Máximo (g/día)": "200"
+    },
+    "gamba": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "93",
+        "Proteínas (g)": "20.1",
+        "Lípidos totales (g)": "1.4",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "1.75",
+        "Máximo (g/día)": "200"
+    },
+    "garbanzos": {
+        "Categoría": "Legumbres",
+        "Energía (Kcal)": "373",
+        "Proteínas (g)": "19.4",
+        "Lípidos totales (g)": "5",
+        "Hidratos de carbono (g)": "55",
+        "Precio (€/100g)": "0.25",
+        "Máximo (g/día)": "100"
+    },
+    "gaseosa": {
+        "Categoría": "Bebidas",
+        "Energía (Kcal)": "42",
+        "Proteínas (g)": "0",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "10.5",
+        "Precio (€/100g)": "0.15",
+        "Máximo (g/día)": "200"
+    },
+    "granada": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "34",
+        "Proteínas (g)": "0.7",
+        "Lípidos totales (g)": "0.1",
+        "Hidratos de carbono (g)": "7.5",
+        "Precio (€/100g)": "0.40",
+        "Máximo (g/día)": "200"
+    },
+    "grelos": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "19",
+        "Proteínas (g)": "2.7",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "0.1",
+        "Precio (€/100g)": "0.60",
+        "Máximo (g/día)": "200"
+    },
+    "grosella": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "32",
+        "Proteínas (g)": "1.1",
+        "Lípidos totales (g)": "0.2",
+        "Hidratos de carbono (g)": "4.8",
+        "Precio (€/100g)": "2.95",
+        "Máximo (g/día)": "200"
+    },
+    "guisante": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "80",
+        "Proteínas (g)": "5.3",
+        "Lípidos totales (g)": "0.4",
+        "Hidratos de carbono (g)": "10",
+        "Precio (€/100g)": "0.35",
+        "Máximo (g/día)": "200"
+    },
+    "haba": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "65",
+        "Proteínas (g)": "4.6",
+        "Lípidos totales (g)": "0.4",
+        "Hidratos de carbono (g)": "8.6",
+        "Precio (€/100g)": "0.38",
+        "Máximo (g/día)": "200"
+    },
+    "helado artesanales": {
+        "Categoría": "Leche y productos lácteos",
+        "Energía (Kcal)": "211",
+        "Proteínas (g)": "4.5",
+        "Lípidos totales (g)": "10.1",
+        "Hidratos de carbono (g)": "25.4",
+        "Precio (€/100g)": "2.00",
+        "Máximo (g/día)": "200",
+        "Extra": "Postre"
+    },
+    "higo": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "85",
+        "Proteínas (g)": "1.2",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "16",
+        "Precio (€/100g)": "0.65",
+        "Máximo (g/día)": "200"
+    },
+    "huevas": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "113",
+        "Proteínas (g)": "24.3",
+        "Lípidos totales (g)": "1.8",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "3.98",
+        "Máximo (g/día)": "200"
+    },
+    "huevo": {
+        "Categoría": "Huevos",
+        "Energía (Kcal)": "150",
+        "Proteínas (g)": "12.5",
+        "Lípidos totales (g)": "11.1",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "0.40",
+        "Máximo (g/día)": "200"
+    },
+    "jabalí": {
+        "Categoría": "Carnes",
+        "Energía (Kcal)": "109",
+        "Proteínas (g)": "19.5",
+        "Lípidos totales (g)": "3.4",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "1.99",
+        "Máximo (g/día)": "250"
+    },
+    "jamón serrano": {
+        "Categoría": "Productos cárnicos",
+        "Energía (Kcal)": "241",
+        "Proteínas (g)": "31",
+        "Lípidos totales (g)": "13",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "2.17",
+        "Máximo (g/día)": "200"
+    },
+    "jamón york": {
+        "Categoría": "Productos cárnicos",
+        "Energía (Kcal)": "175",
+        "Proteínas (g)": "18.4",
+        "Lípidos totales (g)": "10.8",
+        "Hidratos de carbono (g)": "1",
+        "Precio (€/100g)": "1.49",
+        "Máximo (g/día)": "200"
+    },
+    "judía verde": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "37",
+        "Proteínas (g)": "2.3",
+        "Lípidos totales (g)": "0.2",
+        "Hidratos de carbono (g)": "5",
+        "Precio (€/100g)": "0.46",
+        "Máximo (g/día)": "200"
+    },
+    "ketchup": {
+        "Categoría": "Condimentos y aperitivos",
+        "Energía (Kcal)": "104",
+        "Proteínas (g)": "2.1",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "24",
+        "Precio (€/100g)": "0.49",
+        "Máximo (g/día)": "20"
+    },
+    "kiwi": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "55",
+        "Proteínas (g)": "1.1",
+        "Lípidos totales (g)": "0.5",
+        "Hidratos de carbono (g)": "10.6",
+        "Precio (€/100g)": "0.30",
+        "Máximo (g/día)": "200"
+    },
+    "lacón": {
+        "Categoría": "Productos cárnicos",
+        "Energía (Kcal)": "349",
+        "Proteínas (g)": "21.5",
+        "Lípidos totales (g)": "29.2",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "1.70",
+        "Máximo (g/día)": "200"
+    },
+    "langosta": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "91",
+        "Proteínas (g)": "18.3",
+        "Lípidos totales (g)": "2",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "6.90",
+        "Máximo (g/día)": "200"
+    },
+    "langostino": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "93",
+        "Proteínas (g)": "20.1",
+        "Lípidos totales (g)": "1.4",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "1.40",
+        "Máximo (g/día)": "200"
+    },
+    "leche desnatada": {
+        "Categoría": "Leche y productos lácteos",
+        "Energía (Kcal)": "35",
+        "Proteínas (g)": "3.4",
+        "Lípidos totales (g)": "0.1",
+        "Hidratos de carbono (g)": "5",
+        "Precio (€/100g)": "0.10",
+        "Máximo (g/día)": "200"
+    },
+    "lechuga": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "17",
+        "Proteínas (g)": "1.5",
+        "Lípidos totales (g)": "0.3",
+        "Hidratos de carbono (g)": "1.4",
+        "Precio (€/100g)": "0.29",
+        "Máximo (g/día)": "200"
+    },
+    "lengua de vaca": {
+        "Categoría": "Carnes",
+        "Energía (Kcal)": "190",
+        "Proteínas (g)": "16.8",
+        "Lípidos totales (g)": "13.6",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "0.98",
+        "Máximo (g/día)": "200"
+    },
+    "lenguado": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "78",
+        "Proteínas (g)": "16.5",
+        "Lípidos totales (g)": "1.3",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "2.70",
+        "Máximo (g/día)": "200"
+    },
+    "lentejas": {
+        "Categoría": "Legumbres",
+        "Energía (Kcal)": "351",
+        "Proteínas (g)": "23.8",
+        "Lípidos totales (g)": "1.8",
+        "Hidratos de carbono (g)": "54",
+        "Precio (€/100g)": "0.36",
+        "Máximo (g/día)": "100"
+    },
+    "liebre": {
+        "Categoría": "Carnes",
+        "Energía (Kcal)": "133",
+        "Proteínas (g)": "23",
+        "Lípidos totales (g)": "4.6",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "2.20",
+        "Máximo (g/día)": "250"
+    },
+    "limón": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "44",
+        "Proteínas (g)": "0.7",
+        "Lípidos totales (g)": "0.4",
+        "Hidratos de carbono (g)": "9",
+        "Precio (€/100g)": "0.22",
+        "Máximo (g/día)": "20"
+    },
+    "lombarda": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "27",
+        "Proteínas (g)": "1.1",
+        "Lípidos totales (g)": "0.3",
+        "Hidratos de carbono (g)": "3.7",
+        "Precio (€/100g)": "0.15",
+        "Máximo (g/día)": "200"
+    },
+    "lomo embuchado": {
+        "Categoría": "Productos cárnicos",
+        "Energía (Kcal)": "386",
+        "Proteínas (g)": "50",
+        "Lípidos totales (g)": "20.7",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "1.92",
+        "Máximo (g/día)": "200"
+    },
+    "lubina": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "84",
+        "Proteínas (g)": "18",
+        "Lípidos totales (g)": "1.3",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "0.80",
+        "Máximo (g/día)": "200"
+    },
+    "mandarina": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "43",
+        "Proteínas (g)": "0.8",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "9",
+        "Precio (€/100g)": "0.20",
+        "Máximo (g/día)": "200"
+    },
+    "manteca de cerdo": {
+        "Categoría": "Aceites y grasas",
+        "Energía (Kcal)": "896",
+        "Proteínas (g)": "0",
+        "Lípidos totales (g)": "99.5",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "1.02",
+        "Máximo (g/día)": "200"
+    },
+    "mantequilla": {
+        "Categoría": "Aceites y grasas",
+        "Energía (Kcal)": "749",
+        "Proteínas (g)": "0.6",
+        "Lípidos totales (g)": "83",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "1.35",
+        "Máximo (g/día)": "200"
+    },
+    "manzana": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "53",
+        "Proteínas (g)": "0.3",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "12",
+        "Precio (€/100g)": "0.15",
+        "Máximo (g/día)": "200"
+    },
+    "mayonesa": {
+        "Categoría": "Condimentos y aperitivos",
+        "Energía (Kcal)": "718",
+        "Proteínas (g)": "1.8",
+        "Lípidos totales (g)": "78.9",
+        "Hidratos de carbono (g)": "0.1",
+        "Precio (€/100g)": "0.71",
+        "Máximo (g/día)": "200"
+    },
+    "maíz de mazorca": {
+        "Categoría": "Cereales y derivados",
+        "Energía (Kcal)": "104",
+        "Proteínas (g)": "3.3",
+        "Lípidos totales (g)": "0.78",
+        "Hidratos de carbono (g)": "19.5",
+        "Precio (€/100g)": "0.47",
+        "Máximo (g/día)": "200"
+    },
+    "maíz desgranado": {
+        "Categoría": "Cereales y derivados",
+        "Energía (Kcal)": "73",
+        "Proteínas (g)": "2.9",
+        "Lípidos totales (g)": "1.2",
+        "Hidratos de carbono (g)": "10.7",
+        "Precio (€/100g)": "0.44",
+        "Máximo (g/día)": "200"
+    },
+    "mejillón en escabeche": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "169",
+        "Proteínas (g)": "10.7",
+        "Lípidos totales (g)": "14",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "2.60",
+        "Máximo (g/día)": "200"
+    },
+    "mejillón": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "60",
+        "Proteínas (g)": "10.8",
+        "Lípidos totales (g)": "1.9",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "1.72",
+        "Máximo (g/día)": "200"
+    },
+    "melocotón": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "41",
+        "Proteínas (g)": "0.6",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "9",
+        "Precio (€/100g)": "0.88",
+        "Máximo (g/día)": "200"
+    },
+    "melón": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "28",
+        "Proteínas (g)": "0.6",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "6",
+        "Precio (€/100g)": "0.25",
+        "Máximo (g/día)": "200"
+    },
+    "membrillo": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "42",
+        "Proteínas (g)": "0.4",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "6.8",
+        "Precio (€/100g)": "1.05",
+        "Máximo (g/día)": "200"
+    },
+    "menta": {
+        "Categoría": "Condimentos y aperitivos",
+        "Energía (Kcal)": "43",
+        "Proteínas (g)": "3.8",
+        "Lípidos totales (g)": "0.7",
+        "Hidratos de carbono (g)": "5.3",
+        "Precio (€/100g)": "9.45",
+        "Máximo (g/día)": "200"
+    },
+    "merluza": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "89",
+        "Proteínas (g)": "15.9",
+        "Lípidos totales (g)": "2.8",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "1.40",
+        "Máximo (g/día)": "200"
+    },
+    "mermelada": {
+        "Categoría": "Azúcares y dulces",
+        "Energía (Kcal)": "282",
+        "Proteínas (g)": "0.2",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "70",
+        "Precio (€/100g)": "0.35",
+        "Máximo (g/día)": "20"
+    },
+    "mero": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "92",
+        "Proteínas (g)": "17.8",
+        "Lípidos totales (g)": "2.3",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "2.90",
+        "Máximo (g/día)": "200"
+    },
+    "miel": {
+        "Categoría": "Azúcares y dulces",
+        "Energía (Kcal)": "314",
+        "Proteínas (g)": "0.5",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "78",
+        "Precio (€/100g)": "1.08",
+        "Máximo (g/día)": "20"
+    },
+    "mora": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "39",
+        "Proteínas (g)": "0.9",
+        "Lípidos totales (g)": "0.2",
+        "Hidratos de carbono (g)": "5.1",
+        "Precio (€/100g)": "1.96",
+        "Máximo (g/día)": "200"
+    },
+    "morcilla": {
+        "Categoría": "Carnes",
+        "Energía (Kcal)": "446",
+        "Proteínas (g)": "19.5",
+        "Lípidos totales (g)": "39.5",
+        "Hidratos de carbono (g)": "3",
+        "Precio (€/100g)": "0.75",
+        "Máximo (g/día)": "200"
+    },
+    "mortadela": {
+        "Categoría": "Productos cárnicos",
+        "Energía (Kcal)": "311",
+        "Proteínas (g)": "14",
+        "Lípidos totales (g)": "27",
+        "Hidratos de carbono (g)": "3",
+        "Precio (€/100g)": "1.04",
+        "Máximo (g/día)": "200"
+    },
+    "mostaza": {
+        "Categoría": "Condimentos y aperitivos",
+        "Energía (Kcal)": "84",
+        "Proteínas (g)": "4.7",
+        "Lípidos totales (g)": "4.4",
+        "Hidratos de carbono (g)": "6.4",
+        "Precio (€/100g)": "0.61",
+        "Máximo (g/día)": "200"
+    },
+    "mozzarella": {
+        "Categoría": "Leche y productos lácteos",
+        "Energía (Kcal)": "223",
+        "Proteínas (g)": "19.5",
+        "Lípidos totales (g)": "16.1",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "1.50",
+        "Máximo (g/día)": "200"
+    },
+    "nabo": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "32",
+        "Proteínas (g)": "0.8",
+        "Lípidos totales (g)": "0.3",
+        "Hidratos de carbono (g)": "5",
+        "Precio (€/100g)": "0.66",
+        "Máximo (g/día)": "200"
+    },
+    "nata": {
+        "Categoría": "Leche y productos lácteos",
+        "Energía (Kcal)": "448",
+        "Proteínas (g)": "1.5",
+        "Lípidos totales (g)": "48.2",
+        "Hidratos de carbono (g)": "2",
+        "Precio (€/100g)": "1.00",
+        "Máximo (g/día)": "200"
+    },
+    "naranja": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "42",
+        "Proteínas (g)": "0.8",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "8.6",
+        "Precio (€/100g)": "0.15",
+        "Máximo (g/día)": "200"
+    },
+    "navaja": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "86",
+        "Proteínas (g)": "11.9",
+        "Lípidos totales (g)": "2.2",
+        "Hidratos de carbono (g)": "3.69",
+        "Precio (€/100g)": "2.80",
+        "Máximo (g/día)": "200"
+    },
+    "nuez": {
+        "Categoría": "Frutos secos",
+        "Energía (Kcal)": "611",
+        "Proteínas (g)": "14",
+        "Lípidos totales (g)": "59",
+        "Hidratos de carbono (g)": "3.3",
+        "Precio (€/100g)": "1.29",
+        "Máximo (g/día)": "200"
+    },
+    "nuez moscada": {
+        "Categoría": "Condimentos y aperitivos",
+        "Energía (Kcal)": "350",
+        "Proteínas (g)": "5.8",
+        "Lípidos totales (g)": "36.3",
+        "Hidratos de carbono (g)": "49",
+        "Precio (€/100g)": "5.20",
+        "Máximo (g/día)": "200"
+    },
+    "nécora": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "124",
+        "Proteínas (g)": "19.5",
+        "Lípidos totales (g)": "5.1",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "2.90",
+        "Máximo (g/día)": "200"
+    },
+    "níscalos": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "24",
+        "Proteínas (g)": "1.6",
+        "Lípidos totales (g)": "0.8",
+        "Hidratos de carbono (g)": "0.2",
+        "Precio (€/100g)": "0.70",
+        "Máximo (g/día)": "200"
+    },
+    "níspero": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "69",
+        "Proteínas (g)": "0.4",
+        "Lípidos totales (g)": "0.5",
+        "Hidratos de carbono (g)": "10.6",
+        "Precio (€/100g)": "0.67",
+        "Máximo (g/día)": "200"
+    },
+    "oreja de cerdo": {
+        "Categoría": "Carnes",
+        "Energía (Kcal)": "233",
+        "Proteínas (g)": "22.5",
+        "Lípidos totales (g)": "15.1",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "0.80",
+        "Máximo (g/día)": "200"
+    },
+    "orégano": {
+        "Categoría": "Condimentos y aperitivos",
+        "Energía (Kcal)": "335",
+        "Proteínas (g)": "11",
+        "Lípidos totales (g)": "10.3",
+        "Hidratos de carbono (g)": "49.5",
+        "Precio (€/100g)": "9.56",
+        "Máximo (g/día)": "200"
+    },
+    "palitos de cangrejo": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "70",
+        "Proteínas (g)": "10",
+        "Lípidos totales (g)": "0.4",
+        "Hidratos de carbono (g)": "6.6",
+        "Precio (€/100g)": "0.78",
+        "Máximo (g/día)": "200"
+    },
+    "palometa": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "125",
+        "Proteínas (g)": "20",
+        "Lípidos totales (g)": "5",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "1.12",
+        "Máximo (g/día)": "200"
+    },
+    "pan blanco": {
+        "Categoría": "Cereales y derivados",
+        "Energía (Kcal)": "277",
+        "Proteínas (g)": "7.8",
+        "Lípidos totales (g)": "1",
+        "Hidratos de carbono (g)": "58",
+        "Precio (€/100g)": "0.32",
+        "Máximo (g/día)": "200"
+    },
+    "pan integral": {
+        "Categoría": "Cereales y derivados",
+        "Energía (Kcal)": "258",
+        "Proteínas (g)": "8",
+        "Lípidos totales (g)": "1.4",
+        "Hidratos de carbono (g)": "49",
+        "Precio (€/100g)": "0.45",
+        "Máximo (g/día)": "200"
+    },
+    "panceta de cerdo": {
+        "Categoría": "Carnes",
+        "Energía (Kcal)": "349",
+        "Proteínas (g)": "19",
+        "Lípidos totales (g)": "1.4",
+        "Hidratos de carbono (g)": "52.5",
+        "Precio (€/100g)": "0.78",
+        "Máximo (g/día)": "200"
+    },
+    "pasas": {
+        "Categoría": "Frutos secos",
+        "Energía (Kcal)": "286",
+        "Proteínas (g)": "1.4",
+        "Lípidos totales (g)": "0.3",
+        "Hidratos de carbono (g)": "66",
+        "Precio (€/100g)": "0.72",
+        "Máximo (g/día)": "200"
+    },
+    "pasta": {
+        "Categoría": "Cereales y derivados",
+        "Energía (Kcal)": "375",
+        "Proteínas (g)": "12",
+        "Lípidos totales (g)": "1.8",
+        "Hidratos de carbono (g)": "75.8",
+        "Precio (€/100g)": "0.14",
+        "Máximo (g/día)": "200"
+    },
+    "patata": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "88",
+        "Proteínas (g)": "2.5",
+        "Lípidos totales (g)": "0.2",
+        "Hidratos de carbono (g)": "18",
+        "Precio (€/100g)": "0.19",
+        "Máximo (g/día)": "200"
+    },
+    "pate de cerdo": {
+        "Categoría": "Productos cárnicos",
+        "Energía (Kcal)": "454",
+        "Proteínas (g)": "14",
+        "Lípidos totales (g)": "42",
+        "Hidratos de carbono (g)": "5",
+        "Precio (€/100g)": "1.05",
+        "Máximo (g/día)": "200"
+    },
+    "pato": {
+        "Categoría": "Carnes",
+        "Energía (Kcal)": "214",
+        "Proteínas (g)": "22",
+        "Lípidos totales (g)": "14",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "3.98",
+        "Máximo (g/día)": "250"
+    },
+    "pavo": {
+        "Categoría": "Carnes",
+        "Energía (Kcal)": "107",
+        "Proteínas (g)": "21.9",
+        "Lípidos totales (g)": "2.2",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "1.10",
+        "Máximo (g/día)": "250"
+    },
+    "pepinillos vinagre": {
+        "Categoría": "Condimentos y aperitivos",
+        "Energía (Kcal)": "25",
+        "Proteínas (g)": "1.7",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "4.5",
+        "Precio (€/100g)": "0.71",
+        "Máximo (g/día)": "200"
+    },
+    "pepino": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "13",
+        "Proteínas (g)": "0.7",
+        "Lípidos totales (g)": "0.2",
+        "Hidratos de carbono (g)": "1.9",
+        "Precio (€/100g)": "0.28",
+        "Máximo (g/día)": "200"
+    },
+    "pera": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "49",
+        "Proteínas (g)": "0.4",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "10.6",
+        "Precio (€/100g)": "0.22",
+        "Máximo (g/día)": "200"
+    },
+    "percebe": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "59",
+        "Proteínas (g)": "13.6",
+        "Lípidos totales (g)": "0.5",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "15.0",
+        "Máximo (g/día)": "200"
+    },
+    "perdíz": {
+        "Categoría": "Carnes",
+        "Energía (Kcal)": "106",
+        "Proteínas (g)": "23",
+        "Lípidos totales (g)": "1.6",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "2.99",
+        "Máximo (g/día)": "250"
+    },
+    "perejil": {
+        "Categoría": "Condimentos y aperitivos",
+        "Energía (Kcal)": "45",
+        "Proteínas (g)": "3",
+        "Lípidos totales (g)": "1.3",
+        "Hidratos de carbono (g)": "2.7",
+        "Precio (€/100g)": "1.05",
+        "Máximo (g/día)": "200"
+    },
+    "pescadilla": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "69",
+        "Proteínas (g)": "16",
+        "Lípidos totales (g)": "0.6",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "0.70",
+        "Máximo (g/día)": "200"
+    },
+    "pez espada": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "107",
+        "Proteínas (g)": "17",
+        "Lípidos totales (g)": "4.3",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "1.10",
+        "Máximo (g/día)": "200"
+    },
+    "pimentón": {
+        "Categoría": "Condimentos y aperitivos",
+        "Energía (Kcal)": "316",
+        "Proteínas (g)": "14.8",
+        "Lípidos totales (g)": "13",
+        "Hidratos de carbono (g)": "34.9",
+        "Precio (€/100g)": "2.7",
+        "Máximo (g/día)": "200"
+    },
+    "pimienta": {
+        "Categoría": "Condimentos y aperitivos",
+        "Energía (Kcal)": "74",
+        "Proteínas (g)": "11",
+        "Lípidos totales (g)": "3.3",
+        "Hidratos de carbono (g)": "50",
+        "Precio (€/100g)": "1.70",
+        "Máximo (g/día)": "200"
+    },
+    "pimiento verde": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "23",
+        "Proteínas (g)": "0.9",
+        "Lípidos totales (g)": "0.2",
+        "Hidratos de carbono (g)": "3.7",
+        "Precio (€/100g)": "0.27",
+        "Máximo (g/día)": "200"
+    },
+    "pimiento rojo": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "40",
+        "Proteínas (g)": "1.1",
+        "Lípidos totales (g)": "0.4",
+        "Hidratos de carbono (g)": "7",
+        "Precio (€/100g)": "0.33",
+        "Máximo (g/día)": "200"
+    },
+    "piña": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "50",
+        "Proteínas (g)": "0.5",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "11.5",
+        "Precio (€/100g)": "0.23",
+        "Máximo (g/día)": "200"
+    },
+    "piñón": {
+        "Categoría": "Frutos secos",
+        "Energía (Kcal)": "693",
+        "Proteínas (g)": "14",
+        "Lípidos totales (g)": "68.6",
+        "Hidratos de carbono (g)": "4",
+        "Precio (€/100g)": "5.60",
+        "Máximo (g/día)": "75"
+    },
+    "pipas de girasol": {
+        "Categoría": "Frutos secos",
+        "Energía (Kcal)": "580",
+        "Proteínas (g)": "27",
+        "Lípidos totales (g)": "43",
+        "Hidratos de carbono (g)": "20",
+        "Precio (€/100g)": "0.62",
+        "Máximo (g/día)": "75"
+    },
+    "pistacho": {
+        "Categoría": "Frutos secos",
+        "Energía (Kcal)": "611",
+        "Proteínas (g)": "17.6",
+        "Lípidos totales (g)": "51.6",
+        "Hidratos de carbono (g)": "15.7",
+        "Precio (€/100g)": "1.32",
+        "Máximo (g/día)": "75"
+    },
+    "platija": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "70",
+        "Proteínas (g)": "12.4",
+        "Lípidos totales (g)": "1.9",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "0.84",
+        "Máximo (g/día)": "200"
+    },
+    "plátano": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "94",
+        "Proteínas (g)": "1.2",
+        "Lípidos totales (g)": "0.3",
+        "Hidratos de carbono (g)": "20",
+        "Precio (€/100g)": "0.24",
+        "Máximo (g/día)": "200"
+    },
+    "pollo": {
+        "Categoría": "Carnes",
+        "Energía (Kcal)": "167",
+        "Proteínas (g)": "20",
+        "Lípidos totales (g)": "9.7",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "0.57",
+        "Máximo (g/día)": "250"
+    },
+    "pomelo": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "35",
+        "Proteínas (g)": "0.8",
+        "Lípidos totales (g)": "0.1",
+        "Hidratos de carbono (g)": "6.8",
+        "Precio (€/100g)": "0.29",
+        "Máximo (g/día)": "200"
+    },
+    "puerro": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "48",
+        "Proteínas (g)": "2",
+        "Lípidos totales (g)": "0.4",
+        "Hidratos de carbono (g)": "7.5",
+        "Precio (€/100g)": "0.67",
+        "Máximo (g/día)": "200"
+    },
+    "pulpo": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "51",
+        "Proteínas (g)": "10.6",
+        "Lípidos totales (g)": "1",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "2.30",
+        "Máximo (g/día)": "200"
+    },
+    "queso de burgos": {
+        "Categoría": "Leche y productos lácteos",
+        "Energía (Kcal)": "175",
+        "Proteínas (g)": "15",
+        "Lípidos totales (g)": "11",
+        "Hidratos de carbono (g)": "4",
+        "Precio (€/100g)": "1.12",
+        "Máximo (g/día)": "75"
+    },
+    "queso de cabrales": {
+        "Categoría": "Leche y productos lácteos",
+        "Energía (Kcal)": "389",
+        "Proteínas (g)": "21",
+        "Lípidos totales (g)": "33",
+        "Hidratos de carbono (g)": "2",
+        "Precio (€/100g)": "2.69",
+        "Máximo (g/día)": "75"
+    },
+    "queso en porciones": {
+        "Categoría": "Leche y productos lácteos",
+        "Energía (Kcal)": "312",
+        "Proteínas (g)": "18",
+        "Lípidos totales (g)": "25.5",
+        "Hidratos de carbono (g)": "2.5",
+        "Precio (€/100g)": "1.00",
+        "Máximo (g/día)": "75"
+    },
+    "queso curado": {
+        "Categoría": "Leche y productos lácteos",
+        "Energía (Kcal)": "420",
+        "Proteínas (g)": "32",
+        "Lípidos totales (g)": "32",
+        "Hidratos de carbono (g)": "1",
+        "Precio (€/100g)": "1.49",
+        "Máximo (g/día)": "75"
+    },
+    "quinoa": {
+        "Categoría": "Cereales y derivados",
+        "Energía (Kcal)": "368",
+        "Proteínas (g)": "14.12",
+        "Lípidos totales (g)": "6.07",
+        "Hidratos de carbono (g)": "64.2",
+        "Precio (€/100g)": "0.55",
+        "Máximo (g/día)": "200"
+    },
+    "rape": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "78",
+        "Proteínas (g)": "18.7",
+        "Lípidos totales (g)": "0.3",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "2.49",
+        "Máximo (g/día)": "200"
+    },
+    "raya": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "77",
+        "Proteínas (g)": "17.1",
+        "Lípidos totales (g)": "0.9",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "1.40",
+        "Máximo (g/día)": "200"
+    },
+    "refrescos": {
+        "Categoría": "Bebidas",
+        "Energía (Kcal)": "42",
+        "Proteínas (g)": "0",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "10.5",
+        "Precio (€/100g)": "0.24",
+        "Máximo (g/día)": "200"
+    },
+    "remolacha": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "37",
+        "Proteínas (g)": "1.3",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "6.4",
+        "Precio (€/100g)": "0.50",
+        "Máximo (g/día)": "200"
+    },
+    "repollo": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "36",
+        "Proteínas (g)": "3.3",
+        "Lípidos totales (g)": "0.3",
+        "Hidratos de carbono (g)": "3.4",
+        "Precio (€/100g)": "0.17",
+        "Máximo (g/día)": "200"
+    },
+    "requesón": {
+        "Categoría": "Leche y productos lácteos",
+        "Energía (Kcal)": "98",
+        "Proteínas (g)": "13.6",
+        "Lípidos totales (g)": "4",
+        "Hidratos de carbono (g)": "1.8",
+        "Precio (€/100g)": "0.70",
+        "Máximo (g/día)": "75"
+    },
+    "rodaballo": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "97",
+        "Proteínas (g)": "16.1",
+        "Lípidos totales (g)": "3.6",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "1.50",
+        "Máximo (g/día)": "200"
+    },
+    "romero": {
+        "Categoría": "Condimentos y aperitivos",
+        "Energía (Kcal)": "331",
+        "Proteínas (g)": "5.0",
+        "Lípidos totales (g)": "15.22",
+        "Hidratos de carbono (g)": "46.4",
+        "Precio (€/100g)": "3.32",
+        "Máximo (g/día)": "200"
+    },
+    "rábano": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "17",
+        "Proteínas (g)": "1",
+        "Lípidos totales (g)": "0.1",
+        "Hidratos de carbono (g)": "2.7",
+        "Precio (€/100g)": "0.60",
+        "Máximo (g/día)": "200"
+    },
+    "salami": {
+        "Categoría": "Productos cárnicos",
+        "Energía (Kcal)": "459",
+        "Proteínas (g)": "18.5",
+        "Lípidos totales (g)": "42",
+        "Hidratos de carbono (g)": "1.8",
+        "Precio (€/100g)": "1.48",
+        "Máximo (g/día)": "200"
+    },
+    "salchichas frescas": {
+        "Categoría": "Carnes",
+        "Energía (Kcal)": "295",
+        "Proteínas (g)": "12.9",
+        "Lípidos totales (g)": "27",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "1.21",
+        "Máximo (g/día)": "250"
+    },
+    "salchichón": {
+        "Categoría": "Productos cárnicos",
+        "Energía (Kcal)": "454",
+        "Proteínas (g)": "25.8",
+        "Lípidos totales (g)": "38.1",
+        "Hidratos de carbono (g)": "2",
+        "Precio (€/100g)": "1.39",
+        "Máximo (g/día)": "200"
+    },
+    "salmonete": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "90",
+        "Proteínas (g)": "14.1",
+        "Lípidos totales (g)": "3.7",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "1.20",
+        "Máximo (g/día)": "200"
+    },
+    "salmón ahumado": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "142",
+        "Proteínas (g)": "25.4",
+        "Lípidos totales (g)": "4.5",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "3.68",
+        "Máximo (g/día)": "200"
+    },
+    "salmón": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "182",
+        "Proteínas (g)": "18.4",
+        "Lípidos totales (g)": "12",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "1.59",
+        "Máximo (g/día)": "200"
+    },
+    "sandía": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "21",
+        "Proteínas (g)": "0.4",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "4.5",
+        "Precio (€/100g)": "0.27",
+        "Máximo (g/día)": "200"
+    },
+    "sardina": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "140",
+        "Proteínas (g)": "18.1",
+        "Lípidos totales (g)": "7.5",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "0.62",
+        "Máximo (g/día)": "200"
+
+    },
+    "sardinas en aceite": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "224",
+        "Proteínas (g)": "22.2",
+        "Lípidos totales (g)": "15",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "1.36",
+        "Máximo (g/día)": "200"
+
+    },
+    "sargo": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "100",
+        "Proteínas (g)": "15",
+        "Lípidos totales (g)": "4.4",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "2.00",
+        "Máximo (g/día)": "200"
+
+    },
+    "sepia": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "71",
+        "Proteínas (g)": "16.1",
+        "Lípidos totales (g)": "0.7",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "1.32",
+        "Máximo (g/día)": "200"
+
+    },
+    "sésamo": {
+        "Categoría": "Frutos secos",
+        "Energía (Kcal)": "614",
+        "Proteínas (g)": "18.2",
+        "Lípidos totales (g)": "58",
+        "Hidratos de carbono (g)": "0.9",
+        "Precio (€/100g)": "1.00",
+        "Máximo (g/día)": "200"
+
+    },
+    "setas": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "31",
+        "Proteínas (g)": "1.8",
+        "Lípidos totales (g)": "0.3",
+        "Hidratos de carbono (g)": "4",
+        "Precio (€/100g)": "0.82",
+        "Máximo (g/día)": "200"
+    },
+    "sidra": {
+        "Categoría": "Bebidas",
+        "Energía (Kcal)": "43",
+        "Proteínas (g)": "0",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "4",
+        "Precio (€/100g)": "0.33",
+        "Máximo (g/día)": "200"
+    },
+    "sobrasada": {
+        "Categoría": "Productos cárnicos",
+        "Energía (Kcal)": "650",
+        "Proteínas (g)": "10.5",
+        "Lípidos totales (g)": "67.5",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "1.24",
+        "Máximo (g/día)": "200"
+
+    },
+    "soja": {
+        "Categoría": "Legumbres",
+        "Energía (Kcal)": "406",
+        "Proteínas (g)": "35.9",
+        "Lípidos totales (g)": "18.6",
+        "Hidratos de carbono (g)": "15.8",
+        "Precio (€/100g)": "1.28",
+        "Máximo (g/día)": "200"
+    },
+    "té": {
+        "Categoría": "Bebidas",
+        "Energía (Kcal)": "0",
+        "Proteínas (g)": "0.1",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "0.04",
+        "Máximo (g/día)": "200"
+    },
+    "ternera": {
+        "Categoría": "Carnes",
+        "Energía (Kcal)": "131",
+        "Proteínas (g)": "20.7",
+        "Lípidos totales (g)": "5.4",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "1.80",
+        "Máximo (g/día)": "250"
+
+    },
+    "tirabeque": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "91",
+        "Proteínas (g)": "6",
+        "Lípidos totales (g)": "0.5",
+        "Hidratos de carbono (g)": "13.1",
+        "Precio (€/100g)": "1.48",
+        "Máximo (g/día)": "200"
+
+    },
+    "tocino": {
+        "Categoría": "Carnes",
+        "Energía (Kcal)": "673",
+        "Proteínas (g)": "8.4",
+        "Lípidos totales (g)": "71",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "0.96",
+        "Máximo (g/día)": "200"
+
+    },
+    "tofu": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "110",
+        "Proteínas (g)": "11.1",
+        "Lípidos totales (g)": "6.9",
+        "Hidratos de carbono (g)": "0.9",
+        "Precio (€/100g)": "0.69",
+        "Máximo (g/día)": "200"
+
+    },
+    "tomate frito natural": {
+        "Categoría": "Condimentos y aperitivos",
+        "Energía (Kcal)": "70",
+        "Proteínas (g)": "1",
+        "Lípidos totales (g)": "5.9",
+        "Hidratos de carbono (g)": "3.3",
+        "Precio (€/100g)": "0.39",
+        "Máximo (g/día)": "50"
+    },
+    "tomate": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "22",
+        "Proteínas (g)": "1",
+        "Lípidos totales (g)": "0.11",
+        "Hidratos de carbono (g)": "3.5",
+        "Precio (€/100g)": "0.22",
+        "Máximo (g/día)": "200"
+    },
+    "tomillo": {
+        "Categoría": "Condimentos y aperitivos",
+        "Energía (Kcal)": "369",
+        "Proteínas (g)": "9.11",
+        "Lípidos totales (g)": "7.43",
+        "Hidratos de carbono (g)": "57.1",
+        "Precio (€/100g)": "4.11",
+        "Máximo (g/día)": "200"
+    },
+    "trucha": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "90",
+        "Proteínas (g)": "15.7",
+        "Lípidos totales (g)": "3",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "0.74",
+        "Máximo (g/día)": "200"
+    },
+    "turrón": {
+        "Categoría": "Azúcares y dulces",
+        "Energía (Kcal)": "499",
+        "Proteínas (g)": "10",
+        "Lípidos totales (g)": "23.90",
+        "Hidratos de carbono (g)": "57.4",
+        "Precio (€/100g)": "2.20",
+        "Máximo (g/día)": "35",
+        "Extra": "Postre"
+    },
+    "uva": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "69",
+        "Proteínas (g)": "0.6",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "16.1",
+        "Precio (€/100g)": "0.50",
+        "Máximo (g/día)": "200"
+    },
+    "ventresca de atún": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "135",
+        "Proteínas (g)": "24.7",
+        "Lípidos totales (g)": "4",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "6.06",
+        "Máximo (g/día)": "200"
+    },
+    "vieira": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "84",
+        "Proteínas (g)": "19",
+        "Lípidos totales (g)": "0.9",
+        "Hidratos de carbono (g)": "0",
+        "Precio (€/100g)": "2.08",
+        "Máximo (g/día)": "200"
+    },
+    "vino": {
+        "Categoría": "Bebidas",
+        "Energía (Kcal)": "78",
+        "Proteínas (g)": "0.1",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "1.1",
+        "Precio (€/100g)": "0.70",
+        "Máximo (g/día)": "200"
+    },
+    "yogur": {
+        "Categoría": "Leche y productos lácteos",
+        "Energía (Kcal)": "57",
+        "Proteínas (g)": "3.7",
+        "Lípidos totales (g)": "2.7",
+        "Hidratos de carbono (g)": "4.4",
+        "Precio (€/100g)": "0.15",
+        "Máximo (g/día)": "200",
+        "Extra": "Postre"
+    },
+    "zanahoria": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "40",
+        "Proteínas (g)": "0.9",
+        "Lípidos totales (g)": "0.2",
+        "Hidratos de carbono (g)": "7.3",
+        "Precio (€/100g)": "0.11",
+        "Máximo (g/día)": "200"
+    },
+    "zumo": {
+        "Categoría": "Bebidas",
+        "Energía (Kcal)": "42",
+        "Proteínas (g)": "0.3",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "10.1",
+        "Precio (€/100g)": "0.25",
+        "Máximo (g/día)": "200"
+    }
+}

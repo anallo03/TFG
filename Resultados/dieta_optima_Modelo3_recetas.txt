@@ -1,0 +1,304 @@
+Dieta óptima encontrada:
+
+Día: 1
+
+Desayuno: Porridge con arándanos
+  - avena: 40.00g
+  - leche desnatada: 200.00g
+  - arándano: 25.00g
+
+Comida: Pasta con huevo duro + Lubina al horno + Yogur
+  - pasta: 123.52g
+  - huevo: 200.00g
+  - lubina: 200.00g
+  - yogur: 183.53g
+
+Merienda: Flan 
+  - flan: 30.00g
+
+Cena: Verdura al vapor + Pechuga de pollo + Fruta
+  - brócoli: 70.00g
+  - zanahoria: 30.00g
+  - coliflor: 50.00g
+  - aceite de oliva: 4.00g
+  - pollo: 140.00g
+  - pera: 150.00g
+
+Desayuno extra:
+  - cecina: 32.36g
+  - melón: 125.00g
+  - pan blanco: 49.71g
+  - salchichón: 27.23g
+
+Comida extra:
+  - langostino: 133.27g
+  - repollo: 200.00g
+
+Merienda extra:
+  - cacahuete: 68.83g
+  - mandarina: 150.00g
+  - pan integral: 20.00g
+  - queso en porciones: 23.31g
+
+Cena extra:
+  - arroz: 49.09g
+  - oreja de cerdo: 65.82g
+  - panceta de cerdo: 44.18g
+  - requesón: 40.89g
+
+Día: 2
+
+Desayuno: Leche y huevos fritos con jamón serrano
+  - leche desnatada: 200.00g
+  - huevo: 112.58g
+  - jamón serrano: 30.00g
+
+Comida: Pasta con queso + Conejo con verduras + Naranja
+  - pasta: 119.72g
+  - queso curado: 54.04g
+  - conejo: 200.00g
+  - lombarda: 80.00g
+  - naranja: 150.00g
+
+Merienda: Tosta de pan integral con lomo y piña
+  - pan integral: 36.66g
+  - lomo embuchado: 35.85g
+  - piña: 74.33g
+
+Cena: Revuelto de quinoa y tofu + Boquerones + Yogur
+  - quinoa: 120.22g
+  - tofu: 57.22g
+  - boquerón: 195.38g
+  - yogur: 200.00g
+
+Desayuno extra:
+  - albaricoque: 150.00g
+  - cereales saludables: 37.49g
+  - pan blanco: 28.90g
+
+Comida extra:
+  - callos: 50.00g
+  - langostino: 93.34g
+  - requesón: 75.00g
+
+Merienda extra:
+  - aguacate: 20.00g
+  - sandía: 55.67g
+
+Cena extra:
+ - calabacín: 22.78g
+
+Día: 3
+
+Desayuno: Avena con plátano y leche
+  - avena: 36.28g
+  - plátano: 150.00g
+  - leche desnatada: 200.00g
+
+Comida: Lentejas con chorizo + Pavo con patatas + Yogur
+  - lentejas: 100.00g
+  - chorizo: 10.00g
+  - pavo: 240.00g
+  - patata: 80.00g
+  - yogur: 150.00g
+
+Merienda: Pan integral con quesitos y ciruelas
+  - ciruela: 100.00g
+  - queso en porciones: 26.25g
+  - pan integral: 20.00g
+
+Cena: Pasta con queso + Sardinas al limón + Pomelo
+  - pasta: 103.11g
+  - queso curado: 42.85g
+  - sardina: 200.00g
+  - limón: 20.00g
+  - pomelo: 130.00g
+
+Desayuno extra:
+  - butifarra: 25.67g
+  - lomo embuchado: 35.41g
+  - pan blanco: 20.00g
+
+Comida extra:
+  - arroz: 38.72g
+  - huevo: 174.43g
+  - sepia: 33.39g
+
+Merienda extra:
+  - cacahuete: 75.00g
+  - caqui: 50.00g
+
+Cena extra:
+  - calabaza: 48.59g
+  - haba: 31.41g
+
+Día: 4
+
+Desayuno: Cereales integrales con leche
+  - cereales saludables: 35.00g
+  - leche desnatada: 200.00g
+
+Comida: Pasta con langostinos + Pollo con guisantes + Yogur
+  - pasta: 121.28g
+  - langostino: 200.00g
+  - pollo: 250.00g
+  - guisante: 86.38g
+  - yogur: 180.22g
+
+Merienda: Flan 
+  - flan: 50.31g
+
+Cena: Tortilla de espinacas con pan + zumo de tomate
+  - huevo: 120.00g
+  - espinacas: 50.00g
+  - pan integral: 40.00g
+  - aceite de oliva: 3.00g
+  - tomate: 150.00g
+
+Desayuno extra:
+  - jamón serrano: 50.79g
+  - melón: 150.00g
+  - pan blanco: 49.30g
+  - salchichón: 25.23g
+
+Merienda extra:
+  - cacahuete: 75.00g
+  - manzana: 150.00g
+  - queso en porciones: 24.22g
+
+Cena extra:
+  - coco: 20.00g
+  - pescadilla: 198.28g
+  - pera: 130.00g
+  - quinoa: 80.49g
+
+Día: 5
+
+Desayuno: Leche y huevos fritos con jamón serrano
+  - leche desnatada: 200.00g
+  - huevo: 112.58g
+  - jamón serrano: 30.00g
+
+Comida: Alubias + Conejo con quinoa + Yogur
+  - alubias: 100.00g
+  - conejo: 250.00g
+  - quinoa: 54.13g
+  - yogur: 160.30g
+
+Merienda: Mousse de naranja con requesón
+  - naranja: 150.00g
+  - requesón: 75.00g
+
+Cena: Pasta + Brócoli + Sandía
+  - pasta: 104.15g
+  - brócoli: 200.00g
+  - sandía: 150.00g
+
+Desayuno extra:
+  - albaricoque: 150.00g
+  - cereales saludables: 37.49g
+  - pan blanco: 28.90g
+
+Comida extra:
+  - queso curado: 39.70g
+  - repollo: 200.00g
+  - sepia: 41.13g
+
+
+Merienda extra:
+  - avena: 21.69g
+  - queso de burgos: 50.92g
+
+Cena extra:
+  - callos: 24.23g
+  - oreja de cerdo: 176.95g
+
+Día: 6
+
+Desayuno: Avena con plátano y leche
+  - avena: 44.55g
+  - plátano: 120.42g
+  - leche desnatada: 200.00g
+
+Comida: Lentejas con chorizo + Pavo con patatas + Yogur
+  - lentejas: 100.00g
+  - chorizo: 10.00g
+  - pavo: 240.00g
+  - patata: 55.21g
+  - yogur: 150.00g
+
+Merienda: Pan integral con quesitos y ciruelas
+  - ciruela: 100.00g
+  - queso en porciones: 26.25g
+  - pan integral: 20.00g
+
+Cena: Pasta con queso + Sardinas al limón + Pomelo
+  - pasta: 104.82g
+  - queso curado: 42.28g
+  - sardina: 200.00g
+  - limón: 20.00g
+  - pomelo: 130.00g
+
+Desayuno extra:
+  - aguacate: 29.58g
+  - lomo embuchado: 40.87g
+  - pan blanco: 20.00g
+
+Comida extra:
+  - arroz: 40.38g
+  - huevo: 157.94g
+  - haba: 24.79g
+  - requesón: 50.00g
+
+Merienda extra:
+  - cacahuete: 75.00g
+  - caqui: 50.00g
+
+Cena extra:
+  - coliflor: 80.00g
+
+Día: 7
+
+Desayuno: Cereales integrales con leche
+  - cereales saludables: 35.00g
+  - leche desnatada: 200.00g
+
+Comida: Pasta con huevo duro + Lubina al horno + Yogur
+  - pasta: 121.61g
+  - huevo: 200.00g
+  - lubina: 200.00g
+  - yogur: 189.02g
+
+Merienda: Tosta de pan integral con lomo y piña
+  - pan integral: 22.35g
+  - lomo embuchado: 34.56g
+  - piña: 150.00g
+
+Cena: Ensalada + Tofu con champiñones + Manzana
+  - lechuga: 50.00g
+  - zanahoria: 20.00g
+  - tomate: 30.00g
+  - aceite de oliva: 4.00g
+  - tofu: 109.45g
+  - champiñón: 40.00g
+  - manzana: 150.00g
+
+Desayuno extra:
+  - jamón serrano: 52.03g
+  - mandarina: 150.00g
+  - pan blanco: 41.24g
+  - salchichón: 25.02g
+
+Comida extra:
+  - guisante: 80.00g
+  - langostino: 145.14g
+
+Merienda extra:
+  - queso de burgos: 20.00g
+
+Cena extra:
+  - boquerón: 180.00g
+  - congrio: 20.00g
+  - quinoa: 107.80g
+
+Coste total: 78.16 €

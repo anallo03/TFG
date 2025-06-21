@@ -1,0 +1,33 @@
+
+Dieta óptima encontrada:
+
+Desayuno:
+  albaricoque: 20.00 g
+  coco: 20.00 g
+  leche desnatada: 200.00 g
+  lomo embuchado: 43.33 g
+  manzana: 110.00 g
+  pan blanco: 85.33 g
+
+Comida:
+  arroz: 41.44 g
+  brócoli: 200.00 g
+  conejo: 222.86 g
+  huevo: 176.78 g
+  lentejas: 100.00 g
+  mandarina: 150.00 g
+  pavo: 27.14 g
+
+Merienda:
+  avena: 30.64 g
+  cacahuete: 56.61 g
+  yogur: 189.05 g
+
+Cena:
+  chorizo: 20.00 g
+  naranja: 150.00 g
+  pasta: 101.56 g
+  pollo: 224.12 g
+  repollo: 80.00 g
+
+Coste total: 8.80 €

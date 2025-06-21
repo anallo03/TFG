@@ -1,0 +1,702 @@
+{
+    "desayuno": [
+        {
+            "receta": "Avena con plátano y leche",
+            "ingredientes": {
+                "avena": ["35 ","45 "],
+                "plátano": ["120 ","150 "],
+                "leche desnatada": ["180 ","220 "]
+            }
+        },
+        {
+            "receta": "Tostadas con aguacate y huevo y leche",
+            "ingredientes": {
+                "pan integral": ["70 ","90 "],
+                "aguacate": ["30 ","50 "],
+                "huevo": ["50 ","60 "],
+                "leche desnatada": ["180 ","220 "]
+            }
+        },
+        {
+            "receta": "Batido de plátano y kiwi",
+            "ingredientes": {
+                "leche desnatada": ["180 ","220 "],
+                "plátano": ["100 ","200 "],
+                "kiwi": ["100 ","200 "]
+            }
+        },
+        {
+            "receta": "Yogur con frutas",
+            "ingredientes": {
+                "yogur": ["120 ","150 "],
+                "fresa": ["40 ","60 "], 
+                "arándano": ["30 ","50 "],
+                "plátano": ["30 ","50 "]
+            }
+        },
+        {
+            "receta": "Tortilla con pan y zumo de naranja",
+            "ingredientes": {
+                "huevo": ["120 ","140 "],
+                "pan integral": ["40 ","60 "],
+                "aceite de oliva": ["3 ","6 "],
+                "naranja": ["150 ","200 "]
+            }
+        },
+        {
+            "receta": "Leche y huevos fritos con jamón serrano",
+            "ingredientes": {
+                "leche desnatada": ["180 ","220 "],
+                "huevo": ["80 ","120 "],
+                "jamón serrano": ["30 ","50 "]
+            }
+        }, 
+        {
+            "receta": "Smoothie energizante de plátano y avena y tostadas con lomo",
+            "ingredientes": {
+                "leche desnatada": ["180 ","220 "],
+                "plátano": ["100 ","150 "],
+                "avena": ["25 ","45 "],
+                "pan integral": ["40 ","60 "],
+                "lomo embuchado": ["30 ","50 "]
+            }
+        },
+        {
+            "receta": "Queso fresco con pan y tomate",
+            "ingredientes": {
+                "queso de burgos": ["90 ","110 "],
+                "pan integral": ["45 ","75 "],
+                "tomate": ["30 ","50 "],
+                "aceite de oliva": ["3 ","5 "]
+            }
+        }, 
+        {
+            "receta": "Batido de plátano y fresa",
+            "ingredientes": {
+                "leche desnatada": ["180 ","220 "],
+                "plátano": ["20 ","200 "],
+                "fresa": ["20 ","200 "]
+            }
+        },
+        {
+            "receta": "Cereales integrales con leche",
+            "ingredientes": {
+                "cereales saludables": ["35 ","45 "],
+                "leche desnatada": ["180 ","220 "]
+            }
+        },
+        {
+            "receta": "Tortitas de avena",
+            "ingredientes": {
+                "avena": ["35 ","45 "],
+                "huevo": ["50 ","60 "],
+                "plátano": ["50 ","70 "],
+                "yogur": ["25 ","35 "]
+            }
+        },
+        {
+            "receta": "Porridge con arándanos",
+            "ingredientes": {
+                "avena": ["30 ","40 "],
+                "leche desnatada": ["180 ","220 "],
+                "arándano": ["25 ","35 "]
+            }
+        },
+        {
+            "receta": "Bocadillo de pavo y leche",
+            "ingredientes": {
+                "pan integral": ["45 ","75 "],
+                "pavo": ["35 ","65 "],
+                "tomate": ["30 ","50 "],
+                "aceite de oliva": ["3 ","5 "],
+                "leche desnatada": ["180 ","220 "]
+            }
+        }
+    ],
+    "comida": [
+        {
+            "receta": "Ensalada de quinoa + Pollo al horno con patatas + Yogur",
+            "ingredientes": {
+                "quinoa": ["50 ","70 "],
+                "tomate": ["40 ","60 "],
+                "espinacas": ["30 ","50 "],
+                "aguacate": ["30 ","50 "],
+                "aceite de oliva": ["5 ","8 "],
+                "pollo": ["130 ","160 "],
+                "patata": ["90 ","110 "],
+                "yogur": ["120 ","150 "]
+            }
+        },
+        {
+            "receta": "Pasta con langostinos + Pollo con guisantes + Yogur",
+            "ingredientes": {
+                "pasta": ["100 ","150 "],
+                "langostino": ["50 ","200 "],
+                "pollo": ["170 ","250 "],
+                "guisante": ["50 ","200 "],
+                "yogur": ["120 ","200 "]
+            }
+        },
+        {
+            "receta": "Lentejas estofadas + Salmón a la plancha + Manzana",
+            "ingredientes": {
+                "lentejas": ["90 ","110 "],
+                "zanahoria": ["30 ","50 "],
+                "cebolla": ["20 ","40 "],
+                "salmón": ["110 ","130 "],
+                "manzana": ["120 ","150 "]
+            }
+        },
+        {
+            "receta": "Pasta integral + Conejo + Yogur",
+            "ingredientes": {
+                "pasta": ["75 ","150 "],
+                "tomate frito natural": ["40 ","60 "],
+                "conejo": ["130 ","160 "],
+                "cebolla": ["20 ","40 "],
+                "aceite de oliva": ["5 ","8 "],
+                "yogur": ["120 ","150 "]
+            }
+        },
+        {
+            "receta": "Alubias + Conejo con quinoa + Yogur",
+            "ingredientes": {
+                "alubias": ["80 ","120 "],
+                "conejo": ["170 ","250 "],
+                "quinoa": ["20 ","80 "],
+                "yogur": ["120 ","200 "]
+            }
+        },
+        {
+            "receta": "Arroz con verduras + Pechuga de pavo + Pera",
+            "ingredientes": {
+                "arroz": ["75 ","120 "],
+                "calabacín": ["30 ","50 "],
+                "zanahoria": ["30 ","50 "],
+                "pavo": ["120 ","140 "],
+                "pera": ["120 ","150 "]
+            }
+        },
+        {
+            "receta": "Pasta con huevo duro + Lubina al horno + Yogur",
+            "ingredientes": {
+                "pasta": ["100 ","150 "],
+                "huevo": ["80 ","200 "],
+                "lubina": ["170 ","250 "],
+                "yogur": ["120 ","200 "]
+            }
+        },
+        {
+            "receta": "Pasta con champiñones + Huevo y aguacate + Yogur",
+            "ingredientes": {
+                "pasta": ["60 ","150 "],
+                "champiñón": ["20 ","40 "],
+                "cebolla": ["20 ","40 "],
+                "huevo": ["50 ","60 "],
+                "aguacate": ["25 ","35 "],
+                "yogur": ["120 ","150 "]
+            }
+        },
+        {
+            "receta": "Lentejas con chorizo + Pavo con patatas + Yogur",
+            "ingredientes": {
+                "lentejas": ["40 ","150 "],
+                "chorizo": ["10 ","40 "],
+                "pavo": ["170 ","250 "],
+                "patata": ["20 ","100 "],
+                "yogur": ["120 ","200 "]
+            }
+        },
+        {
+            "receta": "Pasta con queso + Conejo con verduras + Naranja",
+            "ingredientes": {
+                "pasta": ["40 ","200 "],
+                "queso curado": ["30 ","100 "],
+                "conejo": ["40 ","200 "],
+                "lombarda": ["40 ","100 "],
+                "naranja": ["120 ","150 "]
+
+            }
+        },
+        {
+            "receta": "Ensalada de garbanzos + Pescado al horno + Fruta",
+            "ingredientes": {
+                "garbanzos": ["70 ","110 "],
+                "espinacas": ["30 ","50 "],
+                "pimiento rojo": ["30 ","50 "],
+                "aceite de oliva": ["5 ","8 "],
+                "lenguado": ["120 ","150 "],
+                "kiwi": ["120 ","150 "]
+            }
+        },
+        {
+            "receta": "Pasta con atún y tomate + Verduras al vapor + Yogur",
+            "ingredientes": {
+                "pasta": ["75 ","150 "],
+                "atún": ["90 ","110 "],
+                "tomate frito natural": ["40 ","60 "],
+                "brócoli": ["50 ","70 "],
+                "zanahoria": ["30 ","50 "],
+                "aceite de oliva": ["5 ","8 "],
+                "yogur": ["120 ","150 "]
+            }
+        },
+        {
+            "receta": "Pasta con tomate + Merluza con ensalada + Plátano",
+            "ingredientes": {
+                "pasta": ["90 ","150 "],
+                "tomate frito natural": ["10 ","30 "],
+                "merluza": ["130 ","150 "],
+                "tomate": ["40 ","60 "],
+                "lechuga": ["50 ","90 "],
+                "aceite de oliva": ["5 ","8 "],
+                "plátano": ["120 ","150 "]
+            }
+        },
+        {"receta": "Garbanzos salteados + Ternera a la plancha con arroz + Fruta",
+            "ingredientes": {
+                "garbanzos": ["70 ","110 "],
+                "espinacas": ["30 ","50 "],
+                "pimiento rojo": ["30 ","50 "],
+                "aceite de oliva": ["5 ","8 "],
+                "ternera": ["110 ","140 "],
+                "arroz": ["60 ","80 "],
+                "kiwi": ["120 ","150 "]
+            }
+        },
+        {
+            "receta": "Puré de verduras + Bacalao al horno + Yogur",
+            "ingredientes": {
+                "calabacín": ["50 ","70 "],
+                "zanahoria": ["30 ","50 "],
+                "patata": ["40 ","60 "], 
+                "puerro": ["20 ","30 "],
+                "bacalao": ["120 ","140 "],
+                "cebolla": ["20 ","30 "],
+                "yogur": ["120 ","150 "]
+            }
+        },
+        {
+            "receta": "Ensalada de alubias + Pollo a la plancha + Fruta",
+            "ingredientes": {
+                "alubias": ["70 ","90 "],
+                "lechuga": ["60 ","100 "],
+                "tomate": ["30 ","50 "],
+                "pepino": ["30 ","50 "],
+                "aceite de oliva": ["4 ","6 "],
+                "pollo": ["120 ","140 "],
+                "pera": ["120 ","150 "]
+            }
+        },
+        {
+            "receta": "Ensalada con arroz + Atún + Yogur con frambuesas",
+            "ingredientes": {
+                "lechuga": ["60 ","10 "],
+                "pepino": ["30 ","50 "],
+                "tomate": ["30 ","50 "],
+                "aceite de oliva": ["4 ","6 "],
+                "atún": ["90 ","110 "],
+                "arroz": ["60 ","80 "],
+                "yogur": ["120 ","150 "],
+                "frambuesa": ["30 ","50 "]
+            }
+        },
+        {
+            "receta": "Arroz con verduras + Pollo con patatas + Naranja",
+            "ingredientes": {
+                "arroz": ["60 ","80 "],
+                "pimiento rojo": ["30 ","50 "],
+                "cebolla": ["20 ","30 "],
+                "zanahoria": ["30 ","50 "],
+                "pollo": ["120 ","150 "],
+                "patata": ["40 ","60 "],
+                "naranja": ["120 ","150 "]
+            }
+        },
+        {
+            "receta": "Pasta con tomate + Sardinas y boquerones acompañados con tofu + Manzana",
+            "ingredientes": {
+                "pasta": ["100 ","110 "],
+                "tomate frito natural": ["40 ","60 "],
+                "sardina": ["80 ","150 "],
+                "boquerón": ["80 ","150 "],
+                "tofu": ["100 ","130 "],
+                "manzana": ["120 ","150 "]
+            }
+        }
+    ],
+    "merienda": [
+        {
+            "receta": "Yogur con nueces y miel",
+            "ingredientes": {
+                "yogur": ["120 ","150 "],
+                "nuez": ["10 ","15 "],
+                "miel": ["5 ","10 "]
+            }
+        },
+        {
+            "receta": "Mousse de naranja con requesón",
+            "ingredientes": {
+                "naranja": ["80 ","150 "],
+                "requesón": ["20 ","80 "]
+            }
+        },
+        {
+            "receta": "Pan con pavo y aguacate y batido de frutas",
+            "ingredientes": {
+                "pan integral": ["40 ","60 "],
+                "pavo": ["35 ","45 "],
+                "aguacate": ["20 ","30 "],
+                "plátano": ["50 ","70 "],
+                "fresa": ["20 ","30 "],
+                "leche desnatada": ["180 ","220 "]
+            }
+        },
+        {
+            "receta": "Batido  con plátano, fresas y leche",
+            "ingredientes": {
+                "plátano": ["90 ","110 "],
+                "leche desnatada": ["180 ","220 "],
+                "fresa": ["20 ","30 "]
+            }
+        },
+        {
+            "receta": "Queso fresco con frutas secas y mandarina",
+            "ingredientes": {
+                "queso de burgos": ["100 ","120 "],
+                "pasas": ["10 ","20 "],
+                "nuez": ["10 ","15 "],
+                "mandarina": ["100 ","120 "]
+            }
+        },
+        {
+            "receta": "Flan ",
+            "ingredientes": {
+                "flan": ["30 ","80 "]
+            }
+        },
+        {
+            "receta": "Tostadas con aguacate y tomate",
+            "ingredientes": {
+                "pan integral": ["40 ","80 "],
+                "aguacate": ["30 ","60 "],
+                "tomate": ["20 ","30 "],
+                "aceite de oliva": ["3 ","5 "]
+            }
+        },  
+        {
+            "receta": "Sandwich mixto de atún y tomate",
+            "ingredientes": {
+                "pan integral": ["60 ","80 "],
+                "atún": ["50 ","70 "],
+                "tomate": ["30 ","50 "],
+                "queso de burgos": ["40 ","60 "],
+                "aceite de oliva": ["3 ","5 "]
+            }
+        },
+        {
+            "receta": "Galletas de avena y plátano",
+            "ingredientes": {
+                "avena": ["40 ","50 "],
+                "plátano": ["80 ","100 "],
+                "huevo": ["50 ","60 "]
+            }
+        },
+        {
+            "receta": "Pan integral con quesitos y ciruelas",
+            "ingredientes": {
+                "ciruela": ["100 ","150 "],
+                "queso en porciones": ["20 ","50 "],
+                "pan integral": ["20 ","60 "]
+            }
+        },
+        {
+            "receta": "Tostada con cacahuete y plátano",
+            "ingredientes": {
+                "pan integral": ["40 ","60 "],
+                "cacahuete": ["10 ","15 "],
+                "plátano": ["80 ","100 "]
+            }
+        },
+        {
+            "receta": "Huevo duro con cereales y fruta",
+            "ingredientes": {
+                "huevo": ["50 ","60 "],
+                "cereales saludables": ["25 ","35 "],
+                "melón": ["50 ","120 "],
+                "naranja": ["50 ","120 "]
+
+            }
+        },
+        {
+            "receta": "Barrita energética casera y batido de frutas",
+            "ingredientes": {
+                "avena": ["30 ","40 "],
+                "dátil": ["20 ","30 "],
+                "nuez": ["10 ","15 "],
+                "plátano": ["50 ","70 "],
+                "fresa": ["20 ","30 "],
+                "leche desnatada": ["180 ","220 "]
+            }
+        },
+        {
+            "receta": "Batido de plátano y avena",
+            "ingredientes": {
+                "plátano": ["80 ","100 "],
+                "avena": ["30 ","40 "],
+                "leche desnatada": ["180 ","220 "]
+            }
+        },
+        {
+            "receta": "Tosta de pan integral con lomo y piña",
+            "ingredientes": {
+                "pan integral": ["20 ","50 "],
+                "lomo embuchado": ["20 ","50 "],
+                "piña": ["50 ","150 "]
+            }
+        },
+        {
+            "receta": "Tostadas con queso y tomate",
+            "ingredientes": {
+                "pan integral": ["40 ","60 "],
+                "queso de burgos": ["90 ","110 "],
+                "tomate": ["30 ","50 "],
+                "aceite de oliva": ["3 ","5 "]
+            }
+        },
+        {
+            "receta": "Leche con cereales integrales y plátano",
+            "ingredientes": {
+                "leche desnatada": ["180 ","220 "],
+                "cereales saludables": ["30 ","40 "],
+                "plátano": ["80 ","100 "]
+            }
+        }
+    ],
+    "cena": [
+        {
+            "receta": "Crema de calabaza + Tortilla francesa con queso + Yogur",
+            "ingredientes": {
+                "calabaza": ["100 ","150 "],
+                "patata": ["40 ","60 "],
+                "cebolla": ["20 ","30 "],
+                "huevo": ["100 ","120 "],
+                "aceite de oliva": ["4 ","6 "], 
+                "queso en porciones": ["30 ","50 "],
+                "yogur": ["120 ","150 "]
+            }
+        },
+        {
+            "receta": "Verdura al vapor + Pechuga de pollo + Fruta",
+            "ingredientes": {
+                "brócoli": ["50 ","70 "],
+                "zanahoria": ["30 ","50 "],
+                "coliflor": ["50 ","70 "],
+                "aceite de oliva": ["4 ","6 "],
+                "pollo": ["120 ","140 "],
+                "pera": ["120 ","150 "]
+            }
+        },
+        {
+            "receta": "Pasta con verduras + Atún + Yogur",
+            "ingredientes": {
+                "pasta": ["60 ","80 "],
+                "calabacín": ["30 ","50 "],
+                "pimiento rojo": ["30 ","50 "],
+                "cebolla": ["20 ","30 "],
+                "tomate": ["20 ","40 "],
+                "atún": ["90 ","110 "],
+                "yogur": ["120 ","150 "]
+            }
+        },
+        {
+            "receta": "Sopa de verduras + Pescado al horno + Plátano",
+            "ingredientes": {
+                "zanahoria": ["30 ","50 "],
+                "puerro": ["20 ","30 "],
+                "judía verde": ["40 ","60 "],
+                "gallo": ["120 ","140 "],   
+                "plátano": ["120 ","150 "]
+            }
+        },
+        {
+            "receta": "Pasta con queso + Sardinas al limón + Pomelo",
+            "ingredientes": {
+                "pasta": ["40 ","200 "],
+                "queso curado": ["30 ","100 "],
+                "sardina": ["40 ","200 "],
+                "limón": ["10 ","20 "],
+                "pomelo": ["120 ","150 "]
+            }
+        },
+        {
+            "receta": "Puré de patatas + Hamburguesa de pollo + Yogur con frutos secos",
+            "ingredientes": {
+                "patata": ["100 ","130 "],
+                "leche desnatada": ["30 ","50 "],
+                "pollo": ["120 ","140 "],   
+                "yogur": ["120 ","150 "],
+                "nuez": ["8 ","12 "]
+            }
+        },
+        {
+            "receta": "Arroz con verdura + Atún + Pera",
+            "ingredientes": {
+                "arroz": ["60 ","80 "],
+                "pimiento rojo": ["30 ","50 "],
+                "cebolla": ["20 ","30 "],
+                "atún": ["90 ","110 "],
+                "pera": ["120 ","150 "]
+            }
+        },
+        {
+            "receta": "Fideos con acelgas + Pollo a la plancha + Mandarina",
+            "ingredientes": {
+                "pasta": ["40 ","200 "],
+                "acelga": ["40 ","200 "],
+                "pollo": ["40 ","250 "],
+                "mandarina": ["120 ","150 "]
+            }
+        },
+        {
+            "receta": "Revuelto de quinoa y tofu + Boquerones + Yogur",
+            "ingredientes": {
+                "quinoa": ["40 ","200 "],
+                "tofu": ["40 ","200 "],
+                "boquerón": ["40 ","200 "],
+                "yogur": ["120 ","200 "]
+            }
+        },
+        {
+            "receta": "Sandwich integral de pollo y aguacate + Ensalada de tomate y pepino",
+            "ingredientes": {
+                "pan integral": ["60 ","80 "],
+                "pollo": ["120 ","140 "],
+                "aguacate": ["30 ","50 "],
+                "tomate": ["30 ","50 "],
+                "pepino": ["30 ","50 "],
+                "aceite de oliva": ["4 ","6 "]
+            }
+        },
+        {
+            "receta": "Ensalada + Tofu con champiñones + Manzana",
+            "ingredientes": {
+                "lechuga": ["50 ","80 "],
+                "zanahoria": ["20 ","40 "],
+                "tomate": ["30 ","50 "],
+                "aceite de oliva": ["4 ","6 "],
+                "tofu": ["100 ","130 "],
+                "champiñón": ["40 ","60 "],
+                "manzana": ["120 ","150 "]
+            }
+        },
+        {
+            "receta": "Ensalada + Ternera + Kiwi",
+            "ingredientes": {
+                "lechuga": ["60 ","85 "],
+                "tomate": ["30 ","50 "],
+                "pepino": ["30 ","50 "],
+                "aceite de oliva": ["4 ","6 "],
+                "ternera": ["120 ","140 "],
+                "arroz": ["60 ","80 "],
+                "kiwi": ["120 ","150 "]
+            }
+        },
+        {
+            "receta": "Verdura asada + Huevo y pan + Yogur",
+            "ingredientes": {
+                "berenjena": ["50 ","70 "],
+                "pimiento rojo": ["30 ","50 "], 
+                "calabacín": ["50 ","70 "],
+                "aceite de oliva": ["4 ","6 "],
+                "huevo": ["50 ","60 "],
+                "pan integral": ["40 ","60 "],
+                "yogur": ["120 ","150 "]
+            }
+        },
+        {
+            "receta": "Crema de zanahoria  + Pollo la plancha + Yogur con miel",
+            "ingredientes": {
+                "zanahoria": ["100 ","120 "],
+                "patata": ["30 ","50 "],
+                "cebolla": ["20 ","30 "],
+                "pollo": ["120 ","140 "],
+                "yogur": ["120 ","150 "],
+                "miel": ["5 ","10 "]
+            }
+        },
+        {
+            "receta": "Fideos con verduras y champiñones + Filete de merluza + Manzana",
+            "ingredientes": {
+                "pasta": ["60 ","80 "],
+                "calabacín": ["30 ","50 "],
+                "pimiento rojo": ["30 ","50 "],
+                "pimiento verde": ["20 ","40 "],
+                "champiñón" : ["40 ","60 "],
+                "merluza": ["110 ","130 "],
+                "manzana": ["120 ","150 "]
+            }
+        },
+        {
+            "receta": "Tortilla de patatas + Sandía",
+            "ingredientes": {
+                "huevo": ["100 ","120 "],
+                "patata": ["100 ","130 "],
+                "cebolla": ["20 ","30 "],
+                "aceite de oliva": ["4 ","6 "],
+                "sandía": ["150 ","200 "]
+            }
+        },
+        {
+            "receta": "Tortilla de espinacas con pan + zumo de tomate",
+            "ingredientes": {
+                "huevo": ["100 ","120 "],
+                "espinacas": ["50 ","70 "],
+                "pan integral": ["40 ","60 "],
+                "aceite de oliva": ["3 ","5 "],
+                "tomate": ["150 ","200 "]
+            }
+        },
+        {
+            "receta": "Verduras al vapor + Sardinas + Yogur",
+            "ingredientes": {
+                "coles de bruselas": ["40 ","200 "],
+                "coliflor": ["40 ","200 "],
+                "sardina": ["40 ","200 "],
+                "yogur": ["120 ","200 "]
+            }
+        },
+        {
+            "receta": "Pasta + Brócoli + Sandía",
+            "ingredientes": {
+                "pasta": ["40 ","200 "],
+                "brócoli": ["40 ","200 "],
+                "sandía": ["120 ","150 "]
+            }
+        },
+        {
+            "receta": "Sopa de pollo con fideos + Ensalada de lechuga y tomate",
+            "ingredientes": {
+                "pollo": ["120 ","140 "],
+                "pasta": ["30 ","50 "],
+                "zanahoria": ["20 ","30 "],
+                "puerro": ["20 ","30 "],
+                "lechuga": ["50 ","80 "],
+                "tomate": ["30 ","50 "]
+            }
+        },
+        {
+            "receta": "Tostadas con Queso y pavo + Macedonia de frutas",
+            "ingredientes": {
+                "pan integral": ["40 ","60 "],
+                "queso de burgos": ["90 ","110 "],
+                "pavo": ["35 ","45 "],
+                "aceite de oliva": ["3 ","5 "],
+                "manzana": ["20 ","40 "],
+                "plátano": ["20 ","40 "],
+                "naranja": ["20 ","40 "],
+                "melocotón": ["20 ","40 "]
+            }
+        }
+    ]
+}

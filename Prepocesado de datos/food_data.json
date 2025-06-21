@@ -1,0 +1,1948 @@
+{
+    "abadejo": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "76",
+        "Proteínas (g)": "17.4",
+        "Lípidos totales (g)": "0.75",
+        "Hidratos de carbono (g)": "0"
+    },
+    "aceite de colza": {
+        "Categoría": "Aceites y grasas",
+        "Energía (Kcal)": "884",
+        "Proteínas (g)": "0",
+        "Lípidos totales (g)": "100.0",
+        "Hidratos de carbono (g)": "0"
+    },
+    "aceite de girasol": {
+        "Categoría": "Aceites y grasas",
+        "Energía (Kcal)": "899",
+        "Proteínas (g)": "0",
+        "Lípidos totales (g)": "99.9",
+        "Hidratos de carbono (g)": "0"
+    },
+    "aceite de maíz": {
+        "Categoría": "Aceites y grasas",
+        "Energía (Kcal)": "899",
+        "Proteínas (g)": "Tr",
+        "Lípidos totales (g)": "99.9",
+        "Hidratos de carbono (g)": "0"
+    },
+    "aceite de oliva": {
+        "Categoría": "Aceites y grasas",
+        "Energía (Kcal)": "899",
+        "Proteínas (g)": "Tr",
+        "Lípidos totales (g)": "99.9",
+        "Hidratos de carbono (g)": "0"
+    },
+    "aceituna": {
+        "Categoría": "Condimentos y aperitivos",
+        "Energía (Kcal)": "196",
+        "Proteínas (g)": "0.8",
+        "Lípidos totales (g)": "20",
+        "Hidratos de carbono (g)": "1"
+    },
+    "acelga": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "41",
+        "Proteínas (g)": "2",
+        "Lípidos totales (g)": "0.4",
+        "Hidratos de carbono (g)": "4.5"
+    },
+    "agua": {
+        "Categoría": "Bebidas",
+        "Energía (Kcal)": "0",
+        "Proteínas (g)": "0",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "0"
+    },
+    "aguacate": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "141",
+        "Proteínas (g)": "1.5",
+        "Lípidos totales (g)": "12",
+        "Hidratos de carbono (g)": "5.9"
+    },
+    "ajo": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "118",
+        "Proteínas (g)": "5.3",
+        "Lípidos totales (g)": "0.3",
+        "Hidratos de carbono (g)": "23"
+    },
+    "albaricoque": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "45",
+        "Proteínas (g)": "0.8",
+        "Lípidos totales (g)": "Tr",
+        "Hidratos de carbono (g)": "9.5"
+    },
+    "alcachofa": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "44",
+        "Proteínas (g)": "2.3",
+        "Lípidos totales (g)": "0.1",
+        "Hidratos de carbono (g)": "7.5"
+    },
+    "alcaparra": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "44",
+        "Proteínas (g)": "2.4",
+        "Lípidos totales (g)": "0.9",
+        "Hidratos de carbono (g)": "4.9"
+    },
+    "almeja": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "47",
+        "Proteínas (g)": "10.7",
+        "Lípidos totales (g)": "0.5",
+        "Hidratos de carbono (g)": "0"
+    },
+    "almendra": {
+        "Categoría": "Frutos secos",
+        "Energía (Kcal)": "604",
+        "Proteínas (g)": "20",
+        "Lípidos totales (g)": "53.5",
+        "Hidratos de carbono (g)": "3.5"
+    },
+    "alubias": {
+        "Categoría": "Legumbres",
+        "Energía (Kcal)": "349",
+        "Proteínas (g)": "19",
+        "Lípidos totales (g)": "1.4",
+        "Hidratos de carbono (g)": "52.5"
+    },
+    "anchoa salada en aceite": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "195",
+        "Proteínas (g)": "27.4",
+        "Lípidos totales (g)": "9.3",
+        "Hidratos de carbono (g)": "0.4"
+    },
+    "anguila": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "205",
+        "Proteínas (g)": "16.3",
+        "Lípidos totales (g)": "15.5",
+        "Hidratos de carbono (g)": "0"
+    },
+    "angula": {
+        "Categoría": "Huevos",
+        "Energía (Kcal)": "205",
+        "Proteínas (g)": "16.3",
+        "Lípidos totales (g)": "15.5",
+        "Hidratos de carbono (g)": "0"
+    },
+    "apio": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "16",
+        "Proteínas (g)": "1.3",
+        "Lípidos totales (g)": "0.2",
+        "Hidratos de carbono (g)": "1.3"
+    },
+    "arenque salado": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "202",
+        "Proteínas (g)": "21",
+        "Lípidos totales (g)": "13.1",
+        "Hidratos de carbono (g)": "0"
+    },
+    "arenque": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "153",
+        "Proteínas (g)": "18",
+        "Lípidos totales (g)": "9",
+        "Hidratos de carbono (g)": "0"
+    },
+    "arroz ": {
+        "Categoría": "Cereales y derivados",
+        "Energía (Kcal)": "381",
+        "Proteínas (g)": "7",
+        "Lípidos totales (g)": "0.9",
+        "Hidratos de carbono (g)": "86"
+    },
+    "atún": {
+        "Categoría": "Huevos",
+        "Energía (Kcal)": "200",
+        "Proteínas (g)": "23",
+        "Lípidos totales (g)": "12",
+        "Hidratos de carbono (g)": "0"
+    },
+    "avellana": {
+        "Categoría": "Frutos secos",
+        "Energía (Kcal)": "587",
+        "Proteínas (g)": "14.1",
+        "Lípidos totales (g)": "54.4",
+        "Hidratos de carbono (g)": "5.3"
+    },
+    "avestruz": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "117",
+        "Proteínas (g)": "22.1",
+        "Lípidos totales (g)": "3.19",
+        "Hidratos de carbono (g)": "0"
+    },
+    "azafrán": {
+        "Categoría": "Condimentos y aperitivos",
+        "Energía (Kcal)": "345",
+        "Proteínas (g)": "11.4",
+        "Lípidos totales (g)": "5.9",
+        "Hidratos de carbono (g)": "61.5"
+    },
+    "azúcar": {
+        "Categoría": "Azúcares y dulces",
+        "Energía (Kcal)": "398",
+        "Proteínas (g)": "0",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "99.5"
+    },
+    "bacaladilla": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "76",
+        "Proteínas (g)": "17.4",
+        "Lípidos totales (g)": "0.7",
+        "Hidratos de carbono (g)": "0"
+    },
+    "bacalao": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "74",
+        "Proteínas (g)": "17.7",
+        "Lípidos totales (g)": "0.4",
+        "Hidratos de carbono (g)": "0"
+    },
+    "batata": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "101",
+        "Proteínas (g)": "1.2",
+        "Lípidos totales (g)": "0.6",
+        "Hidratos de carbono (g)": "21.5"
+    },
+    "bebidas alcohólicas": {
+        "Categoría": "Bebidas",
+        "Energía (Kcal)": "233",
+        "Proteínas (g)": "Tr",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "0.4"
+    },
+    "berberecho": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "47",
+        "Proteínas (g)": "10.7",
+        "Lípidos totales (g)": "0.5",
+        "Hidratos de carbono (g)": "0"
+    },
+    "berenjena": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "27",
+        "Proteínas (g)": "1.2",
+        "Lípidos totales (g)": "0.2",
+        "Hidratos de carbono (g)": "4.4"
+    },
+    "berros": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "29",
+        "Proteínas (g)": "3",
+        "Lípidos totales (g)": "1",
+        "Hidratos de carbono (g)": "0.4"
+    },
+    "berza": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "36",
+        "Proteínas (g)": "3.3",
+        "Lípidos totales (g)": "0.3",
+        "Hidratos de carbono (g)": "3.4"
+    },
+    "besugo": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "86",
+        "Proteínas (g)": "17",
+        "Lípidos totales (g)": "2",
+        "Hidratos de carbono (g)": "0"
+    },
+    "bogavante": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "91",
+        "Proteínas (g)": "18.3",
+        "Lípidos totales (g)": "2",
+        "Hidratos de carbono (g)": "0"
+    },
+    "bonito": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "138",
+        "Proteínas (g)": "21",
+        "Lípidos totales (g)": "6",
+        "Hidratos de carbono (g)": "0"
+    },
+    "boquerón": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "127",
+        "Proteínas (g)": "17.6",
+        "Lípidos totales (g)": "6.3",
+        "Hidratos de carbono (g)": "0"
+    },
+    "brécol": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "38",
+        "Proteínas (g)": "4.4",
+        "Lípidos totales (g)": "0.9",
+        "Hidratos de carbono (g)": "1.8"
+    },
+    "buey de mar": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "86",
+        "Proteínas (g)": "18.0",
+        "Lípidos totales (g)": "1.0",
+        "Hidratos de carbono (g)": "0.7"
+    },
+    "buey": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "104",
+        "Proteínas (g)": "18.2",
+        "Lípidos totales (g)": "3.5",
+        "Hidratos de carbono (g)": "0"
+    },
+    "butifarra": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "265",
+        "Proteínas (g)": "15",
+        "Lípidos totales (g)": "20.3",
+        "Hidratos de carbono (g)": "5.5"
+    },
+    "bígaro": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "94",
+        "Proteínas (g)": "20.8",
+        "Lípidos totales (g)": "1.2",
+        "Hidratos de carbono (g)": "Tr"
+    },
+    "caballa": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "150",
+        "Proteínas (g)": "15",
+        "Lípidos totales (g)": "10",
+        "Hidratos de carbono (g)": "0"
+    },
+    "caballo": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "93",
+        "Proteínas (g)": "21",
+        "Lípidos totales (g)": "1",
+        "Hidratos de carbono (g)": "0"
+    },
+    "cabeza de jabalí": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "540",
+        "Proteínas (g)": "20.4",
+        "Lípidos totales (g)": "50.6",
+        "Hidratos de carbono (g)": "0.8"
+    },
+    "cabracho": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "91",
+        "Proteínas (g)": "19",
+        "Lípidos totales (g)": "1.7",
+        "Hidratos de carbono (g)": "0"
+    },
+    "cabrito": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "113",
+        "Proteínas (g)": "19.3",
+        "Lípidos totales (g)": "4",
+        "Hidratos de carbono (g)": "0"
+    },
+    "cacahuete": {
+        "Categoría": "Frutos secos",
+        "Energía (Kcal)": "599",
+        "Proteínas (g)": "27",
+        "Lípidos totales (g)": "49",
+        "Hidratos de carbono (g)": "8.5"
+    },
+    "cacao": {
+        "Categoría": "Azúcares y dulces",
+        "Energía (Kcal)": "381",
+        "Proteínas (g)": "9.8",
+        "Lípidos totales (g)": "8.1",
+        "Hidratos de carbono (g)": "67.1"
+    },
+    "café": {
+        "Categoría": "Bebidas",
+        "Energía (Kcal)": "4",
+        "Proteínas (g)": "0.3",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "0.8"
+    },
+    "calabacín": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "14",
+        "Proteínas (g)": "0.6",
+        "Lípidos totales (g)": "0.2",
+        "Hidratos de carbono (g)": "2.2"
+    },
+    "calabaza": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "15",
+        "Proteínas (g)": "0.7",
+        "Lípidos totales (g)": "0.2",
+        "Hidratos de carbono (g)": "2.2"
+    },
+    "calamar": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "80",
+        "Proteínas (g)": "17",
+        "Lípidos totales (g)": "1.3",
+        "Hidratos de carbono (g)": "0"
+    },
+    "callos": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "81",
+        "Proteínas (g)": "14.6",
+        "Lípidos totales (g)": "2.5",
+        "Hidratos de carbono (g)": "0"
+    },
+    "camarón": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "82",
+        "Proteínas (g)": "17.6",
+        "Lípidos totales (g)": "0.6",
+        "Hidratos de carbono (g)": "1.5"
+    },
+    "canela": {
+        "Categoría": "Condimentos y aperitivos",
+        "Energía (Kcal)": "44",
+        "Proteínas (g)": "3.9",
+        "Lípidos totales (g)": "3.2",
+        "Hidratos de carbono (g)": "-"
+    },
+    "cangrejo de mar": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "124",
+        "Proteínas (g)": "19.5",
+        "Lípidos totales (g)": "5.1",
+        "Hidratos de carbono (g)": "0"
+    },
+    "cangrejo de río": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "77",
+        "Proteínas (g)": "16",
+        "Lípidos totales (g)": "1",
+        "Hidratos de carbono (g)": "0"
+    },
+    "canónigos": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "17",
+        "Proteínas (g)": "1.8",
+        "Lípidos totales (g)": "0.4",
+        "Hidratos de carbono (g)": "0.7"
+    },
+    "capón": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "221",
+        "Proteínas (g)": "29",
+        "Lípidos totales (g)": "11.7",
+        "Hidratos de carbono (g)": "0"
+    },
+    "caqui": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "73",
+        "Proteínas (g)": "0.7",
+        "Lípidos totales (g)": "0.3",
+        "Hidratos de carbono (g)": "16"
+    },
+    "carabinero": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "115",
+        "Proteínas (g)": "23.9",
+        "Lípidos totales (g)": "1.7",
+        "Hidratos de carbono (g)": "0.9"
+    },
+    "caracol de tierra": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "78",
+        "Proteínas (g)": "16.3",
+        "Lípidos totales (g)": "1.4",
+        "Hidratos de carbono (g)": "0"
+    },
+    "cardo": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "23",
+        "Proteínas (g)": "1.4",
+        "Lípidos totales (g)": "0.2",
+        "Hidratos de carbono (g)": "3.5"
+    },
+    "carpa": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "127",
+        "Proteínas (g)": "17.8",
+        "Lípidos totales (g)": "5.6",
+        "Hidratos de carbono (g)": "0"
+    },
+    "castaña": {
+        "Categoría": "Frutos secos",
+        "Energía (Kcal)": "209",
+        "Proteínas (g)": "3",
+        "Lípidos totales (g)": "2.6",
+        "Hidratos de carbono (g)": "40"
+    },
+    "caviar": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "113",
+        "Proteínas (g)": "24.3",
+        "Lípidos totales (g)": "1.8",
+        "Hidratos de carbono (g)": "0"
+    },
+    "cazón": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "82",
+        "Proteínas (g)": "18.7",
+        "Lípidos totales (g)": "0.9",
+        "Hidratos de carbono (g)": "0"
+    },
+    "cebolla": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "23",
+        "Proteínas (g)": "1.4",
+        "Lípidos totales (g)": "0.2",
+        "Hidratos de carbono (g)": "3.5"
+    },
+    "cebolleta": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "29",
+        "Proteínas (g)": "1.4",
+        "Lípidos totales (g)": "Tr",
+        "Hidratos de carbono (g)": "5.1"
+    },
+    "cebollino": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "29",
+        "Proteínas (g)": "3",
+        "Lípidos totales (g)": "0.5",
+        "Hidratos de carbono (g)": "1.9"
+    },
+    "cecina": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "252",
+        "Proteínas (g)": "39",
+        "Lípidos totales (g)": "9.5",
+        "Hidratos de carbono (g)": "0"
+    },
+    "centollo": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "127",
+        "Proteínas (g)": "20.1",
+        "Lípidos totales (g)": "5.2",
+        "Hidratos de carbono (g)": "0"
+    },
+    "cerdo": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "273",
+        "Proteínas (g)": "16.6",
+        "Lípidos totales (g)": "23",
+        "Hidratos de carbono (g)": "0"
+    },
+    "cereales de desayuno": {
+        "Categoría": "Cereales y derivados",
+        "Energía (Kcal)": "378",
+        "Proteínas (g)": "7",
+        "Lípidos totales (g)": "0.9",
+        "Hidratos de carbono (g)": "84"
+    },
+    "cereza": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "65",
+        "Proteínas (g)": "0.8",
+        "Lípidos totales (g)": "0.5",
+        "Hidratos de carbono (g)": "13.5"
+    },
+    "cerveza": {
+        "Categoría": "Bebidas",
+        "Energía (Kcal)": "33",
+        "Proteínas (g)": "0.3",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "2.4"
+    },
+    "champiñón": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "31",
+        "Proteínas (g)": "1.8",
+        "Lípidos totales (g)": "0.3",
+        "Hidratos de carbono (g)": "4"
+    },
+    "chirimoya": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "90",
+        "Proteínas (g)": "1",
+        "Lípidos totales (g)": "0.2",
+        "Hidratos de carbono (g)": "20"
+    },
+    "chirla": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "47",
+        "Proteínas (g)": "10.7",
+        "Lípidos totales (g)": "0.5",
+        "Hidratos de carbono (g)": "0"
+    },
+    "chistorra": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "514",
+        "Proteínas (g)": "17.4",
+        "Lípidos totales (g)": "49",
+        "Hidratos de carbono (g)": "0.9"
+    },
+    "chocolate": {
+        "Categoría": "Azúcares y dulces",
+        "Energía (Kcal)": "532",
+        "Proteínas (g)": "7.8",
+        "Lípidos totales (g)": "30.6",
+        "Hidratos de carbono (g)": "56.4"
+    },
+    "choped": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "311",
+        "Proteínas (g)": "14",
+        "Lípidos totales (g)": "27",
+        "Hidratos de carbono (g)": "3"
+    },
+    "chorizo": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "385",
+        "Proteínas (g)": "22",
+        "Lípidos totales (g)": "32.1",
+        "Hidratos de carbono (g)": "2"
+    },
+    "ciervo": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "103",
+        "Proteínas (g)": "22.2",
+        "Lípidos totales (g)": "1.6",
+        "Hidratos de carbono (g)": "0"
+    },
+    "cigala": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "93",
+        "Proteínas (g)": "20.1",
+        "Lípidos totales (g)": "1.4",
+        "Hidratos de carbono (g)": "0"
+    },
+    "ciruela": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "51",
+        "Proteínas (g)": "0.6",
+        "Lípidos totales (g)": "Tr",
+        "Hidratos de carbono (g)": "11"
+    },
+    "cochinillo": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "93",
+        "Proteínas (g)": "18.8",
+        "Lípidos totales (g)": "2.3",
+        "Hidratos de carbono (g)": "0"
+    },
+    "coco": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "373",
+        "Proteínas (g)": "3.2",
+        "Lípidos totales (g)": "36",
+        "Hidratos de carbono (g)": "3.7"
+    },
+    "codorníz": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "106",
+        "Proteínas (g)": "23",
+        "Lípidos totales (g)": "1.6",
+        "Hidratos de carbono (g)": "0"
+    },
+    "coles de bruselas": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "51",
+        "Proteínas (g)": "3.5",
+        "Lípidos totales (g)": "1.4",
+        "Hidratos de carbono (g)": "4.1"
+    },
+    "coliflor": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "27",
+        "Proteínas (g)": "2.2",
+        "Lípidos totales (g)": "0.2",
+        "Hidratos de carbono (g)": "3.1"
+    },
+    "conejo": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "133",
+        "Proteínas (g)": "23",
+        "Lípidos totales (g)": "4.6",
+        "Hidratos de carbono (g)": "0"
+    },
+    "congrio": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "101",
+        "Proteínas (g)": "19",
+        "Lípidos totales (g)": "2.8",
+        "Hidratos de carbono (g)": "0"
+    },
+    "coquina": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "74",
+        "Proteínas (g)": "12.8",
+        "Lípidos totales (g)": "1",
+        "Hidratos de carbono (g)": "0"
+    },
+    "cordero lechal": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "225",
+        "Proteínas (g)": "18",
+        "Lípidos totales (g)": "17",
+        "Hidratos de carbono (g)": "0"
+    },
+    "cordero, mollejas": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "131",
+        "Proteínas (g)": "15.3",
+        "Lípidos totales (g)": "7.8",
+        "Hidratos de carbono (g)": "0"
+    },
+    "cordero, paletilla": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "240",
+        "Proteínas (g)": "17.9",
+        "Lípidos totales (g)": "18.7",
+        "Hidratos de carbono (g)": "0"
+    },
+    "cordero, sesos": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "113",
+        "Proteínas (g)": "10.3",
+        "Lípidos totales (g)": "8",
+        "Hidratos de carbono (g)": "Tr"
+    },
+    "corzo": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "103",
+        "Proteínas (g)": "21.4",
+        "Lípidos totales (g)": "1.3",
+        "Hidratos de carbono (g)": "0"
+    },
+    "cuajada": {
+        "Categoría": "Leche y productos lácteos",
+        "Energía (Kcal)": "94",
+        "Proteínas (g)": "4.8",
+        "Lípidos totales (g)": "5.3",
+        "Hidratos de carbono (g)": "6.7"
+    },
+    "dorada": {
+        "Categoría": "Huevos",
+        "Energía (Kcal)": "77",
+        "Proteínas (g)": "17",
+        "Lípidos totales (g)": "1",
+        "Hidratos de carbono (g)": "0"
+    },
+    "dátil": {
+        "Categoría": "Frutos secos",
+        "Energía (Kcal)": "314",
+        "Proteínas (g)": "2.2",
+        "Lípidos totales (g)": "0.4",
+        "Hidratos de carbono (g)": "71"
+    },
+    "endibia": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "25",
+        "Proteínas (g)": "1.5",
+        "Lípidos totales (g)": "0.24",
+        "Hidratos de carbono (g)": "3.6"
+    },
+    "escarola": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "24",
+        "Proteínas (g)": "1.5",
+        "Lípidos totales (g)": "0.3",
+        "Hidratos de carbono (g)": "3"
+    },
+    "espinacas": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "31",
+        "Proteínas (g)": "2.6",
+        "Lípidos totales (g)": "0.3",
+        "Hidratos de carbono (g)": "1.2"
+    },
+    "espárragos": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "18",
+        "Proteínas (g)": "2.7",
+        "Lípidos totales (g)": "Tr",
+        "Hidratos de carbono (g)": "1.1"
+    },
+    "faisán": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "160",
+        "Proteínas (g)": "23.8",
+        "Lípidos totales (g)": "6.6",
+        "Hidratos de carbono (g)": "0"
+    },
+    "flan": {
+        "Categoría": "Leche y productos lácteos",
+        "Energía (Kcal)": "127",
+        "Proteínas (g)": "4.9",
+        "Lípidos totales (g)": "2.3",
+        "Hidratos de carbono (g)": "21.6"
+    },
+    "frambuesa": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "40",
+        "Proteínas (g)": "1.4",
+        "Lípidos totales (g)": "0.3",
+        "Hidratos de carbono (g)": "4.6"
+    },
+    "fresa": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "40",
+        "Proteínas (g)": "0.7",
+        "Lípidos totales (g)": "0.5",
+        "Hidratos de carbono (g)": "7"
+    },
+    "gallina": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "167",
+        "Proteínas (g)": "20",
+        "Lípidos totales (g)": "9.7",
+        "Hidratos de carbono (g)": "0"
+    },
+    "gallo": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "80",
+        "Proteínas (g)": "15.8",
+        "Lípidos totales (g)": "1.9",
+        "Hidratos de carbono (g)": "0"
+    },
+    "gamba": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "93",
+        "Proteínas (g)": "20.1",
+        "Lípidos totales (g)": "1.4",
+        "Hidratos de carbono (g)": "0"
+    },
+    "garbanzos": {
+        "Categoría": "Legumbres",
+        "Energía (Kcal)": "373",
+        "Proteínas (g)": "19.4",
+        "Lípidos totales (g)": "5",
+        "Hidratos de carbono (g)": "55"
+    },
+    "gaseosa": {
+        "Categoría": "Bebidas",
+        "Energía (Kcal)": "42",
+        "Proteínas (g)": "Tr",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "10.5"
+    },
+    "granada": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "34",
+        "Proteínas (g)": "0.7",
+        "Lípidos totales (g)": "0.1",
+        "Hidratos de carbono (g)": "7.5"
+    },
+    "grelos": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "19",
+        "Proteínas (g)": "2.7",
+        "Lípidos totales (g)": "Tr",
+        "Hidratos de carbono (g)": "0.1"
+    },
+    "grosella": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "32",
+        "Proteínas (g)": "1.1",
+        "Lípidos totales (g)": "0.2",
+        "Hidratos de carbono (g)": "4.8"
+    },
+    "guisante": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "80",
+        "Proteínas (g)": "5.3",
+        "Lípidos totales (g)": "0.4",
+        "Hidratos de carbono (g)": "10"
+    },
+    "haba": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "65",
+        "Proteínas (g)": "4.6",
+        "Lípidos totales (g)": "0.4",
+        "Hidratos de carbono (g)": "8.6"
+    },
+    "halibut": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "103",
+        "Proteínas (g)": "21.5",
+        "Lípidos totales (g)": "1.9",
+        "Hidratos de carbono (g)": "0"
+    },
+    "helados": {
+        "Categoría": "Leche y productos lácteos",
+        "Energía (Kcal)": "211",
+        "Proteínas (g)": "4.5",
+        "Lípidos totales (g)": "10.1",
+        "Hidratos de carbono (g)": "25.4"
+    },
+    "higo": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "85",
+        "Proteínas (g)": "1.2",
+        "Lípidos totales (g)": "Tr",
+        "Hidratos de carbono (g)": "16"
+    },
+    "huevas": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "113",
+        "Proteínas (g)": "24.3",
+        "Lípidos totales (g)": "1.8",
+        "Hidratos de carbono (g)": "0"
+    },
+    "huevos": {
+        "Categoría": "Huevos",
+        "Energía (Kcal)": "150",
+        "Proteínas (g)": "12.5",
+        "Lípidos totales (g)": "11.1",
+        "Hidratos de carbono (g)": "Tr"
+    },
+    "hígado de ternera ": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "132",
+        "Proteínas (g)": "20.5",
+        "Lípidos totales (g)": "4.8",
+        "Hidratos de carbono (g)": "1.6"
+    },
+    "jabalí": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "109",
+        "Proteínas (g)": "19.5",
+        "Lípidos totales (g)": "3.4",
+        "Hidratos de carbono (g)": "0"
+    },
+    "jamón serrano": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "241",
+        "Proteínas (g)": "31",
+        "Lípidos totales (g)": "13",
+        "Hidratos de carbono (g)": "0"
+    },
+    "jamón york": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "175",
+        "Proteínas (g)": "18.4",
+        "Lípidos totales (g)": "10.8",
+        "Hidratos de carbono (g)": "1"
+    },
+    "judía verde": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "37",
+        "Proteínas (g)": "2.3",
+        "Lípidos totales (g)": "0.2",
+        "Hidratos de carbono (g)": "5"
+    },
+    "jurel": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "124",
+        "Proteínas (g)": "15.7",
+        "Lípidos totales (g)": "6.8",
+        "Hidratos de carbono (g)": "0"
+    },
+    "ketchup": {
+        "Categoría": "Condimentos y aperitivos",
+        "Energía (Kcal)": "104",
+        "Proteínas (g)": "2.1",
+        "Lípidos totales (g)": "Tr",
+        "Hidratos de carbono (g)": "24"
+    },
+    "kiwi": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "55",
+        "Proteínas (g)": "1.1",
+        "Lípidos totales (g)": "0.5",
+        "Hidratos de carbono (g)": "10.6"
+    },
+    "lacón": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "349",
+        "Proteínas (g)": "21.5",
+        "Lípidos totales (g)": "29.2",
+        "Hidratos de carbono (g)": "0"
+    },
+    "langosta": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "91",
+        "Proteínas (g)": "18.3",
+        "Lípidos totales (g)": "2",
+        "Hidratos de carbono (g)": "0"
+    },
+    "langostino": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "93",
+        "Proteínas (g)": "20.1",
+        "Lípidos totales (g)": "1.4",
+        "Hidratos de carbono (g)": "0"
+    },
+    "laurel": {
+        "Categoría": "Condimentos y aperitivos",
+        "Energía (Kcal)": "300",
+        "Proteínas (g)": "7.6",
+        "Lípidos totales (g)": "8.4",
+        "Hidratos de carbono (g)": "48.6"
+    },
+    "leche condensada": {
+        "Categoría": "Leche y productos lácteos",
+        "Energía (Kcal)": "343",
+        "Proteínas (g)": "8.8",
+        "Lípidos totales (g)": "9.3",
+        "Hidratos de carbono (g)": "56"
+    },
+    "leche de cabra": {
+        "Categoría": "Leche y productos lácteos",
+        "Energía (Kcal)": "67",
+        "Proteínas (g)": "3.4",
+        "Lípidos totales (g)": "3.9",
+        "Hidratos de carbono (g)": "4.5"
+    },
+    "leche desnatada": {
+        "Categoría": "Leche y productos lácteos",
+        "Energía (Kcal)": "35",
+        "Proteínas (g)": "3.4",
+        "Lípidos totales (g)": "0.1",
+        "Hidratos de carbono (g)": "5"
+    },
+    "leche entera": {
+        "Categoría": "Leche y productos lácteos",
+        "Energía (Kcal)": "66",
+        "Proteínas (g)": "3.3",
+        "Lípidos totales (g)": "3.6",
+        "Hidratos de carbono (g)": "5"
+    },
+    "lechuga": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "17",
+        "Proteínas (g)": "1.5",
+        "Lípidos totales (g)": "0.3",
+        "Hidratos de carbono (g)": "1.4"
+    },
+    "lengua de vaca": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "190",
+        "Proteínas (g)": "16.8",
+        "Lípidos totales (g)": "13.6",
+        "Hidratos de carbono (g)": "0"
+    },
+    "lenguado": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "78",
+        "Proteínas (g)": "16.5",
+        "Lípidos totales (g)": "1.3",
+        "Hidratos de carbono (g)": "0"
+    },
+    "lentejas": {
+        "Categoría": "Legumbres",
+        "Energía (Kcal)": "351",
+        "Proteínas (g)": "23.8",
+        "Lípidos totales (g)": "1.8",
+        "Hidratos de carbono (g)": "54"
+    },
+    "liebre": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "133",
+        "Proteínas (g)": "23",
+        "Lípidos totales (g)": "4.6",
+        "Hidratos de carbono (g)": "0"
+    },
+    "limón": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "44",
+        "Proteínas (g)": "0.7",
+        "Lípidos totales (g)": "0.4",
+        "Hidratos de carbono (g)": "9"
+    },
+    "lombarda": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "27",
+        "Proteínas (g)": "1.1",
+        "Lípidos totales (g)": "0.3",
+        "Hidratos de carbono (g)": "3.7"
+    },
+    "lomo embuchado": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "386",
+        "Proteínas (g)": "50",
+        "Lípidos totales (g)": "20.7",
+        "Hidratos de carbono (g)": "0"
+    },
+    "lubina": {
+        "Categoría": "Huevos",
+        "Energía (Kcal)": "84",
+        "Proteínas (g)": "18",
+        "Lípidos totales (g)": "1.3",
+        "Hidratos de carbono (g)": "0"
+    },
+    "mandarina": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "43",
+        "Proteínas (g)": "0.8",
+        "Lípidos totales (g)": "Tr",
+        "Hidratos de carbono (g)": "9"
+    },
+    "manteca de cerdo": {
+        "Categoría": "Aceites y grasas",
+        "Energía (Kcal)": "896",
+        "Proteínas (g)": "0",
+        "Lípidos totales (g)": "99.5",
+        "Hidratos de carbono (g)": "0"
+    },
+    "mantequilla": {
+        "Categoría": "Aceites y grasas",
+        "Energía (Kcal)": "749",
+        "Proteínas (g)": "0.6",
+        "Lípidos totales (g)": "83",
+        "Hidratos de carbono (g)": "Tr"
+    },
+    "manzana": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "53",
+        "Proteínas (g)": "0.3",
+        "Lípidos totales (g)": "Tr",
+        "Hidratos de carbono (g)": "12"
+    },
+    "margarina": {
+        "Categoría": "Aceites y grasas",
+        "Energía (Kcal)": "732",
+        "Proteínas (g)": "0.3",
+        "Lípidos totales (g)": "80.7",
+        "Hidratos de carbono (g)": "1"
+    },
+    "mayonesa": {
+        "Categoría": "Condimentos y aperitivos",
+        "Energía (Kcal)": "718",
+        "Proteínas (g)": "1.8",
+        "Lípidos totales (g)": "78.9",
+        "Hidratos de carbono (g)": "0.1"
+    },
+    "maíz de mazorca": {
+        "Categoría": "Cereales y derivados",
+        "Energía (Kcal)": "104",
+        "Proteínas (g)": "3.3",
+        "Lípidos totales (g)": "0.78",
+        "Hidratos de carbono (g)": "19.5"
+    },
+    "maíz desgranado": {
+        "Categoría": "Cereales y derivados",
+        "Energía (Kcal)": "73",
+        "Proteínas (g)": "2.9",
+        "Lípidos totales (g)": "1.2",
+        "Hidratos de carbono (g)": "10.7"
+    },
+    "mejillón en escabeche": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "169",
+        "Proteínas (g)": "10.7",
+        "Lípidos totales (g)": "14",
+        "Hidratos de carbono (g)": "Tr"
+    },
+    "mejillón": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "60",
+        "Proteínas (g)": "10.8",
+        "Lípidos totales (g)": "1.9",
+        "Hidratos de carbono (g)": "0"
+    },
+    "melocotón en almíbar": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "92",
+        "Proteínas (g)": "0.4",
+        "Lípidos totales (g)": "Tr",
+        "Hidratos de carbono (g)": "22"
+    },
+    "melocotón": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "41",
+        "Proteínas (g)": "0.6",
+        "Lípidos totales (g)": "Tr",
+        "Hidratos de carbono (g)": "9"
+    },
+    "melón": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "28",
+        "Proteínas (g)": "0.6",
+        "Lípidos totales (g)": "Tr",
+        "Hidratos de carbono (g)": "6"
+    },
+    "membrillo": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "42",
+        "Proteínas (g)": "0.4",
+        "Lípidos totales (g)": "Tr",
+        "Hidratos de carbono (g)": "6.8"
+    },
+    "menta": {
+        "Categoría": "Condimentos y aperitivos",
+        "Energía (Kcal)": "43",
+        "Proteínas (g)": "3.8",
+        "Lípidos totales (g)": "0.7",
+        "Hidratos de carbono (g)": "5.3"
+    },
+    "merluza": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "89",
+        "Proteínas (g)": "15.9",
+        "Lípidos totales (g)": "2.8",
+        "Hidratos de carbono (g)": "0"
+    },
+    "mermelada": {
+        "Categoría": "Azúcares y dulces",
+        "Energía (Kcal)": "282",
+        "Proteínas (g)": "0.2",
+        "Lípidos totales (g)": "Tr",
+        "Hidratos de carbono (g)": "70"
+    },
+    "mero": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "92",
+        "Proteínas (g)": "17.8",
+        "Lípidos totales (g)": "2.3",
+        "Hidratos de carbono (g)": "0"
+    },
+    "miel": {
+        "Categoría": "Azúcares y dulces",
+        "Energía (Kcal)": "314",
+        "Proteínas (g)": "0.5",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "78"
+    },
+    "mora": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "39",
+        "Proteínas (g)": "0.9",
+        "Lípidos totales (g)": "0.2",
+        "Hidratos de carbono (g)": "5.1"
+    },
+    "morcilla": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "446",
+        "Proteínas (g)": "19.5",
+        "Lípidos totales (g)": "39.5",
+        "Hidratos de carbono (g)": "3"
+    },
+    "mortadela": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "311",
+        "Proteínas (g)": "14",
+        "Lípidos totales (g)": "27",
+        "Hidratos de carbono (g)": "3"
+    },
+    "mostaza": {
+        "Categoría": "Condimentos y aperitivos",
+        "Energía (Kcal)": "84",
+        "Proteínas (g)": "4.7",
+        "Lípidos totales (g)": "4.4",
+        "Hidratos de carbono (g)": "6.4"
+    },
+    "mozzarella": {
+        "Categoría": "Leche y productos lácteos",
+        "Energía (Kcal)": "223",
+        "Proteínas (g)": "19.5",
+        "Lípidos totales (g)": "16.1",
+        "Hidratos de carbono (g)": "0"
+    },
+    "nabo": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "32",
+        "Proteínas (g)": "0.8",
+        "Lípidos totales (g)": "0.3",
+        "Hidratos de carbono (g)": "5"
+    },
+    "naranja": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "42",
+        "Proteínas (g)": "0.8",
+        "Lípidos totales (g)": "Tr",
+        "Hidratos de carbono (g)": "8.6"
+    },
+    "nata": {
+        "Categoría": "Leche y productos lácteos",
+        "Energía (Kcal)": "448",
+        "Proteínas (g)": "1.5",
+        "Lípidos totales (g)": "48.2",
+        "Hidratos de carbono (g)": "2"
+    },
+    "natillas": {
+        "Categoría": "Leche y productos lácteos",
+        "Energía (Kcal)": "120",
+        "Proteínas (g)": "3.8",
+        "Lípidos totales (g)": "4.2",
+        "Hidratos de carbono (g)": "16.8"
+    },
+    "navaja": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "86",
+        "Proteínas (g)": "11.9",
+        "Lípidos totales (g)": "2.2",
+        "Hidratos de carbono (g)": "3.69"
+    },
+    "nuez moscada": {
+        "Categoría": "Condimentos y aperitivos",
+        "Energía (Kcal)": "350",
+        "Proteínas (g)": "5.8",
+        "Lípidos totales (g)": "36.3",
+        "Hidratos de carbono (g)": "-"
+    },
+    "nuez": {
+        "Categoría": "Frutos secos",
+        "Energía (Kcal)": "611",
+        "Proteínas (g)": "14",
+        "Lípidos totales (g)": "59",
+        "Hidratos de carbono (g)": "3.3"
+    },
+    "nécora": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "124",
+        "Proteínas (g)": "19.5",
+        "Lípidos totales (g)": "5.1",
+        "Hidratos de carbono (g)": "0"
+    },
+    "níscalos": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "24",
+        "Proteínas (g)": "1.6",
+        "Lípidos totales (g)": "0.8",
+        "Hidratos de carbono (g)": "0.2"
+    },
+    "níspero": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "69",
+        "Proteínas (g)": "0.4",
+        "Lípidos totales (g)": "0.5",
+        "Hidratos de carbono (g)": "10.6"
+    },
+    "oreja de cerdo": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "233",
+        "Proteínas (g)": "22.5",
+        "Lípidos totales (g)": "15.1",
+        "Hidratos de carbono (g)": "0"
+    },
+    "orégano": {
+        "Categoría": "Legumbres",
+        "Energía (Kcal)": "335",
+        "Proteínas (g)": "11",
+        "Lípidos totales (g)": "10.3",
+        "Hidratos de carbono (g)": "49.5"
+    },
+    "palitos de cangrejo": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "70",
+        "Proteínas (g)": "10",
+        "Lípidos totales (g)": "0.4",
+        "Hidratos de carbono (g)": "6.6"
+    },
+    "paloma": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "288",
+        "Proteínas (g)": "18.5",
+        "Lípidos totales (g)": "23.8",
+        "Hidratos de carbono (g)": "0"
+    },
+    "palometa": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "125",
+        "Proteínas (g)": "20",
+        "Lípidos totales (g)": "5",
+        "Hidratos de carbono (g)": "0"
+    },
+    "pan blanco": {
+        "Categoría": "Cereales y derivados",
+        "Energía (Kcal)": "277",
+        "Proteínas (g)": "7.8",
+        "Lípidos totales (g)": "1",
+        "Hidratos de carbono (g)": "58"
+    },
+    "pan de molde": {
+        "Categoría": "Cereales y derivados",
+        "Energía (Kcal)": "287",
+        "Proteínas (g)": "8",
+        "Lípidos totales (g)": "4.5",
+        "Hidratos de carbono (g)": "52"
+    },
+    "pan integral": {
+        "Categoría": "Cereales y derivados",
+        "Energía (Kcal)": "258",
+        "Proteínas (g)": "8",
+        "Lípidos totales (g)": "1.4",
+        "Hidratos de carbono (g)": "49"
+    },
+    "panceta de cerdo": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "349",
+        "Proteínas (g)": "19",
+        "Lípidos totales (g)": "1.4",
+        "Hidratos de carbono (g)": "52.5"
+    },
+    "pasas": {
+        "Categoría": "Frutos secos",
+        "Energía (Kcal)": "286",
+        "Proteínas (g)": "1.4",
+        "Lípidos totales (g)": "0.3",
+        "Hidratos de carbono (g)": "66"
+    },
+    "pasta": {
+        "Categoría": "Cereales y derivados",
+        "Energía (Kcal)": "375",
+        "Proteínas (g)": "12",
+        "Lípidos totales (g)": "1.8",
+        "Hidratos de carbono (g)": "75.8"
+    },
+    "patata": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "88",
+        "Proteínas (g)": "2.5",
+        "Lípidos totales (g)": "0.2",
+        "Hidratos de carbono (g)": "18"
+    },
+    "patatas fritas": {
+        "Categoría": "Condimentos y aperitivos",
+        "Energía (Kcal)": "470",
+        "Proteínas (g)": "6.8",
+        "Lípidos totales (g)": "19.5",
+        "Hidratos de carbono (g)": "66.8"
+    },
+    "pate de cerdo": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "454",
+        "Proteínas (g)": "14",
+        "Lípidos totales (g)": "42",
+        "Hidratos de carbono (g)": "5"
+    },
+    "pato": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "214",
+        "Proteínas (g)": "22",
+        "Lípidos totales (g)": "14",
+        "Hidratos de carbono (g)": "0"
+    },
+    "pavo": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "107",
+        "Proteínas (g)": "21.9",
+        "Lípidos totales (g)": "2.2",
+        "Hidratos de carbono (g)": "0"
+    },
+    "pepinillos vinagre": {
+        "Categoría": "Condimentos y aperitivos",
+        "Energía (Kcal)": "25",
+        "Proteínas (g)": "1.7",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "4.5"
+    },
+    "pepino": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "13",
+        "Proteínas (g)": "0.7",
+        "Lípidos totales (g)": "0.2",
+        "Hidratos de carbono (g)": "1.9"
+    },
+    "pera": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "49",
+        "Proteínas (g)": "0.4",
+        "Lípidos totales (g)": "Tr",
+        "Hidratos de carbono (g)": "10.6"
+    },
+    "percebe": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "59",
+        "Proteínas (g)": "13.6",
+        "Lípidos totales (g)": "0.5",
+        "Hidratos de carbono (g)": "0"
+    },
+    "perdíz": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "106",
+        "Proteínas (g)": "23",
+        "Lípidos totales (g)": "1.6",
+        "Hidratos de carbono (g)": "0"
+    },
+    "perejil": {
+        "Categoría": "Condimentos y aperitivos",
+        "Energía (Kcal)": "45",
+        "Proteínas (g)": "3",
+        "Lípidos totales (g)": "1.3",
+        "Hidratos de carbono (g)": "2.7"
+    },
+    "pescadilla": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "69",
+        "Proteínas (g)": "16",
+        "Lípidos totales (g)": "0.6",
+        "Hidratos de carbono (g)": "0"
+    },
+    "pez espada": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "107",
+        "Proteínas (g)": "17",
+        "Lípidos totales (g)": "4.3",
+        "Hidratos de carbono (g)": "0"
+    },
+    "pimentón": {
+        "Categoría": "Condimentos y aperitivos",
+        "Energía (Kcal)": "316",
+        "Proteínas (g)": "14.8",
+        "Lípidos totales (g)": "13",
+        "Hidratos de carbono (g)": "34.9"
+    },
+    "pimienta": {
+        "Categoría": "Condimentos y aperitivos",
+        "Energía (Kcal)": "74",
+        "Proteínas (g)": "11",
+        "Lípidos totales (g)": "3.3",
+        "Hidratos de carbono (g)": "-"
+    },
+    "pimiento italiano": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "23",
+        "Proteínas (g)": "0.9",
+        "Lípidos totales (g)": "0.2",
+        "Hidratos de carbono (g)": "3.7"
+    },
+    "pimiento morrón": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "40",
+        "Proteínas (g)": "1.1",
+        "Lípidos totales (g)": "0.4",
+        "Hidratos de carbono (g)": "7"
+    },
+    "pipas de girasol": {
+        "Categoría": "Frutos secos",
+        "Energía (Kcal)": "580",
+        "Proteínas (g)": "27",
+        "Lípidos totales (g)": "43",
+        "Hidratos de carbono (g)": "20"
+    },
+    "pistacho": {
+        "Categoría": "Frutos secos",
+        "Energía (Kcal)": "611",
+        "Proteínas (g)": "17.6",
+        "Lípidos totales (g)": "51.6",
+        "Hidratos de carbono (g)": "15.7"
+    },
+    "piña": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "50",
+        "Proteínas (g)": "0.5",
+        "Lípidos totales (g)": "Tr",
+        "Hidratos de carbono (g)": "11.5"
+    },
+    "piñón": {
+        "Categoría": "Frutos secos",
+        "Energía (Kcal)": "693",
+        "Proteínas (g)": "14",
+        "Lípidos totales (g)": "68.6",
+        "Hidratos de carbono (g)": "4"
+    },
+    "platija": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "70",
+        "Proteínas (g)": "12.4",
+        "Lípidos totales (g)": "1.9",
+        "Hidratos de carbono (g)": "0"
+    },
+    "plátano": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "94",
+        "Proteínas (g)": "1.2",
+        "Lípidos totales (g)": "0.3",
+        "Hidratos de carbono (g)": "20"
+    },
+    "pollo": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "167",
+        "Proteínas (g)": "20",
+        "Lípidos totales (g)": "9.7",
+        "Hidratos de carbono (g)": "0"
+    },
+    "pomelo ": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "35",
+        "Proteínas (g)": "0.8",
+        "Lípidos totales (g)": "0.1",
+        "Hidratos de carbono (g)": "6.8"
+    },
+    "puerro": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "48",
+        "Proteínas (g)": "2",
+        "Lípidos totales (g)": "0.4",
+        "Hidratos de carbono (g)": "7.5"
+    },
+    "pulpo": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "51",
+        "Proteínas (g)": "10.6",
+        "Lípidos totales (g)": "1",
+        "Hidratos de carbono (g)": "0"
+    },
+    "queso de burgos": {
+        "Categoría": "Leche y productos lácteos",
+        "Energía (Kcal)": "175",
+        "Proteínas (g)": "15",
+        "Lípidos totales (g)": "11",
+        "Hidratos de carbono (g)": "4"
+    },
+    "queso de cabrales": {
+        "Categoría": "Leche y productos lácteos",
+        "Energía (Kcal)": "389",
+        "Proteínas (g)": "21",
+        "Lípidos totales (g)": "33",
+        "Hidratos de carbono (g)": "2"
+    },
+    "queso en porciones": {
+        "Categoría": "Leche y productos lácteos",
+        "Energía (Kcal)": "312",
+        "Proteínas (g)": "18",
+        "Lípidos totales (g)": "25.5",
+        "Hidratos de carbono (g)": "2.5"
+    },
+    "queso manchego curado": {
+        "Categoría": "Leche y productos lácteos",
+        "Energía (Kcal)": "420",
+        "Proteínas (g)": "32",
+        "Lípidos totales (g)": "32",
+        "Hidratos de carbono (g)": "1"
+    },
+    "rabo de toro": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "200",
+        "Proteínas (g)": "18.6",
+        "Lípidos totales (g)": "14",
+        "Hidratos de carbono (g)": "0"
+    },
+    "rape": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "78",
+        "Proteínas (g)": "18.7",
+        "Lípidos totales (g)": "0.3",
+        "Hidratos de carbono (g)": "0"
+    },
+    "raya": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "77",
+        "Proteínas (g)": "17.1",
+        "Lípidos totales (g)": "0.9",
+        "Hidratos de carbono (g)": "0"
+    },
+    "refrescos": {
+        "Categoría": "Bebidas",
+        "Energía (Kcal)": "42",
+        "Proteínas (g)": "Tr",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "10.5"
+    },
+    "remolacha": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "37",
+        "Proteínas (g)": "1.3",
+        "Lípidos totales (g)": "Tr",
+        "Hidratos de carbono (g)": "6.4"
+    },
+    "reo": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "182",
+        "Proteínas (g)": "18.4",
+        "Lípidos totales (g)": "12",
+        "Hidratos de carbono (g)": "0"
+    },
+    "repollo": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "36",
+        "Proteínas (g)": "3.3",
+        "Lípidos totales (g)": "0.3",
+        "Hidratos de carbono (g)": "3.4"
+    },
+    "requesón": {
+        "Categoría": "Leche y productos lácteos",
+        "Energía (Kcal)": "98",
+        "Proteínas (g)": "13.6",
+        "Lípidos totales (g)": "4",
+        "Hidratos de carbono (g)": "1.8"
+    },
+    "riñones": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "110",
+        "Proteínas (g)": "16",
+        "Lípidos totales (g)": "5.1",
+        "Hidratos de carbono (g)": "0"
+    },
+    "rodaballo": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "97",
+        "Proteínas (g)": "16.1",
+        "Lípidos totales (g)": "3.6",
+        "Hidratos de carbono (g)": "0"
+    },
+    "romero": {
+        "Categoría": "Condimentos y aperitivos",
+        "Energía (Kcal)": "331",
+        "Proteínas (g)": "5.0",
+        "Lípidos totales (g)": "15.22",
+        "Hidratos de carbono (g)": "46.4"
+    },
+    "rábano": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "17",
+        "Proteínas (g)": "1",
+        "Lípidos totales (g)": "0.1",
+        "Hidratos de carbono (g)": "2.7"
+    },
+    "sal": {
+        "Categoría": "Condimentos y aperitivos",
+        "Energía (Kcal)": "0",
+        "Proteínas (g)": "0",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "0"
+    },
+    "salami": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "459",
+        "Proteínas (g)": "18.5",
+        "Lípidos totales (g)": "42",
+        "Hidratos de carbono (g)": "1.8"
+    },
+    "salchichas frankfurt": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "303",
+        "Proteínas (g)": "12",
+        "Lípidos totales (g)": "27",
+        "Hidratos de carbono (g)": "3"
+    },
+    "salchichas frescas": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "295",
+        "Proteínas (g)": "12.9",
+        "Lípidos totales (g)": "27",
+        "Hidratos de carbono (g)": "Tr"
+    },
+    "salchichón": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "454",
+        "Proteínas (g)": "25.8",
+        "Lípidos totales (g)": "38.1",
+        "Hidratos de carbono (g)": "2"
+    },
+    "salmonete": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "90",
+        "Proteínas (g)": "14.1",
+        "Lípidos totales (g)": "3.7",
+        "Hidratos de carbono (g)": "0"
+    },
+    "salmón ahumado": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "142",
+        "Proteínas (g)": "25.4",
+        "Lípidos totales (g)": "4.5",
+        "Hidratos de carbono (g)": "0"
+    },
+    "salmón": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "182",
+        "Proteínas (g)": "18.4",
+        "Lípidos totales (g)": "12",
+        "Hidratos de carbono (g)": "0"
+    },
+    "sandía": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "21",
+        "Proteínas (g)": "0.4",
+        "Lípidos totales (g)": "Tr",
+        "Hidratos de carbono (g)": "4.5"
+    },
+    "sangre": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "81",
+        "Proteínas (g)": "18",
+        "Lípidos totales (g)": "1",
+        "Hidratos de carbono (g)": "Tr"
+    },
+    "sardina": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "140",
+        "Proteínas (g)": "18.1",
+        "Lípidos totales (g)": "7.5",
+        "Hidratos de carbono (g)": "0"
+    },
+    "sardinas en aceite": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "224",
+        "Proteínas (g)": "22.2",
+        "Lípidos totales (g)": "15",
+        "Hidratos de carbono (g)": "0"
+    },
+    "sargo": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "100",
+        "Proteínas (g)": "15",
+        "Lípidos totales (g)": "4.4",
+        "Hidratos de carbono (g)": "0"
+    },
+    "sepia": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "71",
+        "Proteínas (g)": "16.1",
+        "Lípidos totales (g)": "0.7",
+        "Hidratos de carbono (g)": "0"
+    },
+    "setas": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "31",
+        "Proteínas (g)": "1.8",
+        "Lípidos totales (g)": "0.3",
+        "Hidratos de carbono (g)": "4"
+    },
+    "sidra": {
+        "Categoría": "Bebidas",
+        "Energía (Kcal)": "43",
+        "Proteínas (g)": "Tr",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "4"
+    },
+    "sobrasada": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "650",
+        "Proteínas (g)": "10.5",
+        "Lípidos totales (g)": "67.5",
+        "Hidratos de carbono (g)": "0"
+    },
+    "soja": {
+        "Categoría": "Legumbres",
+        "Energía (Kcal)": "406",
+        "Proteínas (g)": "35.9",
+        "Lípidos totales (g)": "18.6",
+        "Hidratos de carbono (g)": "15.8"
+    },
+    "sésamo": {
+        "Categoría": "Frutos secos",
+        "Energía (Kcal)": "614",
+        "Proteínas (g)": "18.2",
+        "Lípidos totales (g)": "58",
+        "Hidratos de carbono (g)": "0.9"
+    },
+    "ternera": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "131",
+        "Proteínas (g)": "20.7",
+        "Lípidos totales (g)": "5.4",
+        "Hidratos de carbono (g)": "0"
+    },
+    "tirabeque": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "91",
+        "Proteínas (g)": "6",
+        "Lípidos totales (g)": "0.5",
+        "Hidratos de carbono (g)": "13.1"
+    },
+    "tocino": {
+        "Categoría": "Carnes y productos cárnicos",
+        "Energía (Kcal)": "673",
+        "Proteínas (g)": "8.4",
+        "Lípidos totales (g)": "71",
+        "Hidratos de carbono (g)": "0"
+    },
+    "tomate frito": {
+        "Categoría": "Condimentos y aperitivos",
+        "Energía (Kcal)": "70",
+        "Proteínas (g)": "1",
+        "Lípidos totales (g)": "5.9",
+        "Hidratos de carbono (g)": "3.3"
+    },
+    "tomate": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "22",
+        "Proteínas (g)": "1",
+        "Lípidos totales (g)": "0.11",
+        "Hidratos de carbono (g)": "3.5"
+    },
+    "tomillo": {
+        "Categoría": "Condimentos y aperitivos",
+        "Energía (Kcal)": "369",
+        "Proteínas (g)": "9.11",
+        "Lípidos totales (g)": "7.43",
+        "Hidratos de carbono (g)": "57.1"
+    },
+    "trucha": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "90",
+        "Proteínas (g)": "15.7",
+        "Lípidos totales (g)": "3",
+        "Hidratos de carbono (g)": "0"
+    },
+    "turrón": {
+        "Categoría": "Azúcares y dulces",
+        "Energía (Kcal)": "499",
+        "Proteínas (g)": "10",
+        "Lípidos totales (g)": "23.90",
+        "Hidratos de carbono (g)": "57.4"
+    },
+    "té": {
+        "Categoría": "Bebidas",
+        "Energía (Kcal)": "0",
+        "Proteínas (g)": "0.1",
+        "Lípidos totales (g)": "Tr",
+        "Hidratos de carbono (g)": "0"
+    },
+    "uva": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "69",
+        "Proteínas (g)": "0.6",
+        "Lípidos totales (g)": "Tr",
+        "Hidratos de carbono (g)": "16.1"
+    },
+    "ventresca": {
+        "Categoría": "Pescados",
+        "Energía (Kcal)": "135",
+        "Proteínas (g)": "24.7",
+        "Lípidos totales (g)": "4",
+        "Hidratos de carbono (g)": "0"
+    },
+    "vieira": {
+        "Categoría": "Crustáceos y moluscos",
+        "Energía (Kcal)": "84",
+        "Proteínas (g)": "19",
+        "Lípidos totales (g)": "0.9",
+        "Hidratos de carbono (g)": "0"
+    },
+    "vinagre": {
+        "Categoría": "Condimentos y aperitivos",
+        "Energía (Kcal)": "4",
+        "Proteínas (g)": "0.4",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "0.6"
+    },
+    "vino": {
+        "Categoría": "Bebidas",
+        "Energía (Kcal)": "78",
+        "Proteínas (g)": "0.1",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "1.1"
+    },
+    "yogur": {
+        "Categoría": "Leche y productos lácteos",
+        "Energía (Kcal)": "57",
+        "Proteínas (g)": "3.7",
+        "Lípidos totales (g)": "2.7",
+        "Hidratos de carbono (g)": "4.4"
+    },
+    "zanahoria": {
+        "Categoría": "Verduras y hortalizas",
+        "Energía (Kcal)": "40",
+        "Proteínas (g)": "0.9",
+        "Lípidos totales (g)": "0.2",
+        "Hidratos de carbono (g)": "7.3"
+    },
+    "zumo": {
+        "Categoría": "Frutas",
+        "Energía (Kcal)": "42",
+        "Proteínas (g)": "0.3",
+        "Lípidos totales (g)": "0",
+        "Hidratos de carbono (g)": "10.1"
+    }
+}

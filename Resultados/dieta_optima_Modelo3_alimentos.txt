@@ -1,0 +1,192 @@
+
+Dieta óptima encontrada:
+
+Día: 1
+  Desayuno:
+    albaricoque: 150.00 g
+    huevo: 122.09 g
+    jamón serrano: 20.00 g
+    leche desnatada: 200.00 g
+    pan blanco: 87.04 g
+  Comida:
+    conejo: 250.00 g
+    lentejas: 100.00 g
+    quinoa: 68.97 g
+    tofu: 158.22 g
+    yogur: 200.00 g
+  Merienda:
+    cacahuete: 75.00 g
+    pan integral: 22.64 g
+    piña: 150.00 g
+    queso en porciones: 26.19 g
+  Cena:
+    coliflor: 60.75 g
+    melón: 150.00 g
+    pasta: 105.83 g
+    queso curado: 43.54 g
+    sardina: 200.00 g
+    zanahoria: 20.00 g
+
+Día: 2
+  Desayuno:
+    aguacate: 20.00 g
+    avena: 69.01 g
+    leche desnatada: 200.00 g
+    lomo embuchado: 40.27 g
+    manzana: 130.00 g
+  Comida:
+    brócoli: 200.00 g
+    huevo: 197.19 g
+    langostino: 126.56 g
+    lubina: 200.00 g
+    pasta: 129.68 g
+    yogur: 150.00 g
+  Merienda:
+    cacahuete: 75.00 g
+    caqui: 59.47 g
+    kiwi: 70.53 g
+    limón: 20.00 g
+    pan blanco: 20.00 g
+    queso en porciones: 24.35 g
+  Cena:
+    boquerón: 200.00 g
+    lombarda: 80.00 g
+    pomelo: 150.00 g
+    queso curado: 32.76 g
+    quinoa: 123.85 g
+
+Día: 3
+  Desayuno:
+    huevo: 122.09 g
+    jamón serrano: 20.00 g
+    leche desnatada: 200.00 g
+    mandarina: 150.00 g
+    pan blanco: 87.04 g
+  Comida:
+    alubias: 100.00 g
+    arroz: 37.83 g
+    guisante: 80.00 g
+    langostino: 162.74 g
+    pollo: 250.00 g
+    yogur: 200.00 g
+  Merienda:
+    avena: 21.69 g
+    naranja: 150.00 g
+    queso de burgos: 50.92 g
+    requesón: 75.00 g
+  Cena:
+    calabaza: 60.00 g
+    callos: 68.29 g
+    haba: 20.00 g
+    oreja de cerdo: 179.89 g
+    pasta: 107.21 g
+    sandía: 150.00 g
+
+Día: 4
+  Desayuno:
+    cereales saludables: 38.21 g
+    leche desnatada: 200.00 g
+    lomo embuchado: 39.63 g
+    plátano: 150.00 g
+    salchichón: 20.00 g
+  Comida:
+    huevo: 200.00 g
+    melón: 150.00 g
+    pasta: 120.51 g
+    pavo: 250.00 g
+    repollo: 200.00 g
+    requesón: 75.00 g
+    sepia: 25.39 g
+  Merienda:
+    cacahuete: 75.00 g
+    pan blanco: 24.90 g
+    pera: 150.00 g
+    queso en porciones: 26.29 g
+  Cena:
+    patata: 80.00 g
+    pescadilla: 20.00 g
+    queso curado: 20.00 g
+    quinoa: 109.92 g
+    sardina: 180.00 g
+    yogur: 150.00 g
+
+Día: 5
+  Desayuno:
+    albaricoque: 150.00 g
+    huevo: 122.09 g
+    jamón serrano: 20.00 g
+    leche desnatada: 200.00 g
+    pan blanco: 87.04 g
+  Comida:
+    conejo: 250.00 g
+    lentejas: 100.00 g
+    quinoa: 68.97 g
+    tofu: 158.22 g
+    yogur: 200.00 g
+  Merienda:
+    avena: 21.11 g
+    limón: 20.00 g
+    lomo embuchado: 38.66 g
+    piña: 130.00 g
+  Cena:
+    boquerón: 200.00 g
+    pasta: 100.87 g
+    pomelo: 150.00 g
+    queso curado: 50.08 g
+    zanahoria: 80.00 g
+
+Día: 6
+  Desayuno:
+    jamón serrano: 45.70 g
+    leche desnatada: 200.00 g
+    naranja: 150.00 g
+    pan blanco: 92.35 g
+    salchichón: 26.66 g
+  Comida:
+    brócoli: 200.00 g
+    huevo: 200.00 g
+    langostino: 128.15 g
+    lubina: 200.00 g
+    pasta: 121.17 g
+    sandía: 150.00 g
+    yogur: 143.31 g
+  Merienda:
+    butifarra: 20.77 g
+    jamón york: 21.64 g
+    pan integral: 55.65 g
+    requesón: 75.00 g
+  Cena:
+    arroz: 20.70 g
+    avena: 72.89 g
+    guisante: 80.00 g
+    manzana: 150.00 g
+    pollo: 250.00 g
+
+Día: 7
+  Desayuno:
+    cereales saludables: 38.21 g
+    leche desnatada: 200.00 g
+    lomo embuchado: 39.63 g
+    plátano: 150.00 g
+    salchichón: 20.00 g
+  Comida:
+    huevo: 192.24 g
+    langostino: 49.82 g
+    pasta: 125.46 g
+    pavo: 250.00 g
+    repollo: 200.00 g
+    yogur: 150.00 g
+  Merienda:
+    cacahuete: 75.00 g
+    pan blanco: 24.90 g
+    pera: 150.00 g
+    queso en porciones: 26.29 g
+  Cena:
+    arroz: 34.48 g
+    coliflor: 80.00 g
+    mandarina: 150.00 g
+    oreja de cerdo: 166.67 g
+    panceta de cerdo: 76.84 g
+    requesón: 57.18 g
+
+Coste total: 73.75 €
